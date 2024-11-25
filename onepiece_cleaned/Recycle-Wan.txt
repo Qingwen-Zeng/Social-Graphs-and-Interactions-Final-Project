@@ -34,10 +34,3 @@ Bonney
 and
 Chopper
 using the Automatic Cooking Machine.
-Translation and Dub Issues
-[
-]
-Wan
-is Japanese onomatopoeia for a dog's barking. The official English manga and anime use the name "Recycollie", likely derived from the
-Collie
-type of dog.

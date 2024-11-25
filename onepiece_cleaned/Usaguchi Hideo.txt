@@ -440,48 +440,6 @@ Gaikotsu
 ?
 )
 .
-Translation and Dub Issues
-[
-]
-Due to the fickleness of rendering katakana, different translators have romanized ベリー in many different ways:
-Belly
-is the most direct romanization seen in the
-original manga
-and correspondingly treated as the
-canonical
-spelling by this wiki.
-Beli
-or
-Beri
-are the most commonly used by fans, though
-Berri
-and
-Belly
-are not uncommon.
-Berry
-(plural
-Berries
-) is universal among the
-4Kids
-,
-VIZ
-, and
-Funimation
-translations, as well as the
-live-action adaptation
-. The live action adaptation treats
-Berry
-as a mass noun, in that it lacks a plural form.
-The
-Odex
-dub alternates between using
-Berry
-(plural
-Berry
-) and
-dollars
-depending on the episode.
-Disagreement also exists on what plural marker—if any—applies to the term, as plural markers are largely unknown in the Japanese language.
 External links
 [
 ]

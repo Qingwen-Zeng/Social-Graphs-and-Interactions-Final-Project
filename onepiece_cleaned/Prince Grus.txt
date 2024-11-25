@@ -202,26 +202,3 @@ and
 Monkey D. Garp
 vs.
 Blackbeard Pirates
-Translation and Dub Issues
-[
-]
-While his surname "
-Prince
-"
-(
-プリンス
-,
-Purinsu
-?
-)
-uses the Japanese pronunciation of the English word, his title or nickname "Prince"
-(
-王子
-,
-Ōji
-?
-)
-uses the Japanese word for "a prince". This makes it impossible to distinguish between the two in a literal English translation. The
-VIZ
-translation initially rendered the use of the title as "Your Highness" to make the distinction,
-but later switched to simply "Prince".

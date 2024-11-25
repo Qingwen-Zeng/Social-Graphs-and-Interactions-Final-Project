@@ -166,24 +166,3 @@ Enemy Appearances
 [
 ]
 One Piece: Pirates Carnival
-Translation and Dub Issues
-[
-]
-"Mas(h)ira"
-is an older, less-common pronunciation of the kanji for
-monkey
-(
-猿
-?
-)
-, which is generally pronounced
-"saru"
-in modern Japanese.
-The kanji in his title of "boss"
-(
-園長
-,
-bosu
-?
-)
-literally means "zoo director", playing into his monkey theme.

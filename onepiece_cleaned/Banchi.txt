@@ -72,21 +72,3 @@ Enemy Appearances
 [
 ]
 One Piece Thousand Storm
-Translation and Dub Issues
-[
-]
-His name is spelled with katakana
-(
-バンチ
-?
-)
-most commonly used to render the English word
-bunch
-.  It is romanized accordingly by the 7th
-popularity poll
-, which remains the only "official" romanization by any Japanese source.
-Notwithstanding this, the
-Viz manga
-romanizes his name as
-Bunchi
-.

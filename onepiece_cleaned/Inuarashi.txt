@@ -731,16 +731,3 @@ Support Appearances
 [
 ]
 One Piece: Great Pirate Colosseum
-Translation and Dub Issues
-[
-]
-"Inu Arashi" means "Dog Storm". The second part could also be short for "porcupine"
-(
-ヤマアラシ
-,
-yamaarashi
-?
-)
-, which would match
-Nekomamushi
-'s naming scheme of two animals. The Viz translation originally used the latter translation, referring to him as "Dogupine". However, they later switched to the former translation and now refer to him as "Dogstorm". The anime has always used the latter translation.

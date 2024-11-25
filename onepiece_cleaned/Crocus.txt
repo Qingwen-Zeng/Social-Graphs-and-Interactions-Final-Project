@@ -242,9 +242,6 @@ world-wide
 message on a
 Den Den Mushi
 .
-Translation and Dub Issues
-[
-]
 4Kids
 [
 ]

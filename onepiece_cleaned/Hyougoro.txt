@@ -487,12 +487,3 @@ Ninja-Pirate-Mink-Samurai Alliance
 vs.
 Beasts Pirates
 and their allies
-Translation and Dub Issues
-[
-]
-Hyougoro's name includes two long "o" sounds, as
-Hy
-ō
-gor
-ō
-. For unknown reasons, these have been romanized differently, with the first long "o" becoming "ou" and the second becoming "o".

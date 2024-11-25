@@ -262,7 +262,3 @@ Zoro
 -centered version of the
 Hungry Days
 commercial.
-Translation and Dub Issues
-[
-]
-In early translations, "Marguerite" was often translated as "Margaret".

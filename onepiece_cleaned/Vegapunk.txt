@@ -951,18 +951,3 @@ with them.
 Edison was able to retrieve
 Punk Records
 from York, and the destroyed satellites survived by reconvening into his body, which was reconstructed using spare parts from all of the satellites except York and Lilith.
-Translation and Dub Issues
-[
-]
-In the original Japanese, the names of Vegapunk's satellites are written with
-kanji
-which have meanings that correspond with the aspects they embody. For example, Lilith's name is written as
-悪
-, with a kanji character that means "evil" while the
-furigana
-gives the reading
-Ririsu
-or "Lilith". In the
-VIZ
-translation, these meanings are presented similarly to epithets, such as "Lilith the Evil" and "Shaka the Good".
-In the FUNimation dub, Vegapunk is given a German accent, as a clear reference to Albert Einstein who is his based on.
