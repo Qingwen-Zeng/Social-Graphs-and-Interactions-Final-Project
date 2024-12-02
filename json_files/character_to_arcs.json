@@ -1,0 +1,5610 @@
+{
+    "A O": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Monkey D. Luffy": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Post Enies Lobby Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Portgas D. Ace": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Impel Down Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Shanks": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc",
+        "Orange Town Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Squard": [
+        "Marineford Arc"
+    ],
+    "Absalom": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc"
+    ],
+    "Donquixote Doflamingo": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Hogback": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc"
+    ],
+    "Agsilly": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Amadob": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Islewan": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Sengoku": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Andre": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Crocodile": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Jaya Arc",
+        "Whisky Peak Arc",
+        "Long Ring Long Land Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Ninth": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Romance Dawn Arc"
+    ],
+    "Rush": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Arabasta Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Whisky Peak Arc",
+        "Water 7 Arc"
+    ],
+    "Arthur": [
+        "Marineford Arc"
+    ],
+    "Doma": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Hangan": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Reforte": [
+        "Marineford Arc"
+    ],
+    "Whitey Bay": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc"
+    ],
+    "Atmos": [
+        "Marineford Arc"
+    ],
+    "Haruta": [
+        "Marineford Arc"
+    ],
+    "Jinbe": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Whole Cake Island Arc",
+        "Amazon Lily Arc",
+        "Arlong Park Arc"
+    ],
+    "Marco": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Vista": [
+        "Marineford Arc"
+    ],
+    "Avalo Pizarro": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Elbaph Arc"
+    ],
+    "Catarina Devon": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Elbaph Arc"
+    ],
+    "Sanjuan Wolf": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Shiryu": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Elbaph Arc"
+    ],
+    "Vasco Shot": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Elbaph Arc"
+    ],
+    "Baggaley": [
+        "Marineford Arc"
+    ],
+    "Wallem": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Basil Hawkins": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Bastille": [
+        "Marineford Arc",
+        "Dressrosa Arc"
+    ],
+    "Marshall D. Teach": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Benn Beckman": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kaidou": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Bepo": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Boa Hancock": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Buggy": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Orange Town Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Bizarre": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc"
+    ],
+    "Blamenco": [
+        "Marineford Arc"
+    ],
+    "Blenheim": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Galdino": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Arabasta Arc"
+    ],
+    "Jozu": [
+        "Marineford Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kingdew": [
+        "Marineford Arc"
+    ],
+    "Blondie": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Sakazuki": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc",
+        "Amazon Lily Arc"
+    ],
+    "Borsalino": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Emporio Ivankov": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Return to Sabaody Arc"
+    ],
+    "King": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Baratie Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Koby": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Oars": [
+        "Marineford Arc",
+        "Thriller Bark Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Onigumo": [
+        "Marineford Arc",
+        "Impel Down Arc",
+        "Enies Lobby Arc"
+    ],
+    "Rakuyo": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Brew": [
+        "Marineford Arc"
+    ],
+    "Cands": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Brocca": [
+        "Marineford Arc"
+    ],
+    "Palms": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Orange Town Arc"
+    ],
+    "Cancer": [
+        "Marineford Arc",
+        "Loguetown Arc",
+        "Jaya Arc"
+    ],
+    "Doberman": [
+        "Marineford Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Enies Lobby Arc"
+    ],
+    "Momonga": [
+        "Marineford Arc",
+        "Levely Arc",
+        "Impel Down Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc"
+    ],
+    "Tsuru": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Jaya Arc"
+    ],
+    "Capone Bege": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Whole Cake Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Edward Newgate": [
+        "Marineford Arc",
+        "Jaya Arc",
+        "Sabaody Archipelago Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Choi": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Elmy": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc"
+    ],
+    "Pavlik": [
+        "Marineford Arc"
+    ],
+    "Colscon": [
+        "Marineford Arc"
+    ],
+    "Curiel": [
+        "Marineford Arc"
+    ],
+    "Gecko Moria": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Amazon Lily Arc",
+        "Elbaph Arc"
+    ],
+    "Dalmatian": [
+        "Marineford Arc"
+    ],
+    "Daz Bonez": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Drum Island Arc",
+        "Arabasta Arc"
+    ],
+    "Dracule Mihawk": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Arlong Park Arc",
+        "Baratie Arc"
+    ],
+    "Gol D. Roger": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Whole Cake Island Arc",
+        "Loguetown Arc",
+        "Sabaody Archipelago Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Decalvan Brothers": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc"
+    ],
+    "Delacuaji": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Doc Q": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Stronger": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Bartholomew Kuma": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc"
+    ],
+    "Run": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Water 7 Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Speed": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Inazuma": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Monkey D. Garp": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Sentomaru": [
+        "Marineford Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Epoida": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Karma": [
+        "Marineford Arc"
+    ],
+    "Monkey D. Dragon": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Loguetown Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Eustass Kid": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Forliewbs": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Fossa": [
+        "Marineford Arc"
+    ],
+    "Fullbody": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Amazon Lily Arc",
+        "Baratie Arc"
+    ],
+    "Jango": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Amazon Lily Arc",
+        "Syrup Village Arc"
+    ],
+    "Bentham": [
+        "Marineford Arc",
+        "Impel Down Arc",
+        "Drum Island Arc",
+        "Arabasta Arc"
+    ],
+    "Part": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Great Michael": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Gyogyo": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Ramba": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc"
+    ],
+    "Happygun": [
+        "Marineford Arc"
+    ],
+    "Heat": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Whole Cake Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Helmeppo": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Hina": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Amazon Lily Arc"
+    ],
+    "Izou": [
+        "Marineford Arc",
+        "Wano Country Arc"
+    ],
+    "Some": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Jean Bart": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Jesus Burgess": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "John Giant": [
+        "Marineford Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc"
+    ],
+    "Julius": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Kechatch": [
+        "Marineford Arc"
+    ],
+    "Kibin": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Killer": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Kinga": [
+        "Marineford Arc"
+    ],
+    "Skull": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Skypiea Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Kinoko": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Impel Down Arc"
+    ],
+    "Kuzan": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Elbaph Arc",
+        "Long Ring Long Land Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Saber": [
+        "Marineford Arc",
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Lacroix": [
+        "Marineford Arc"
+    ],
+    "Lonz": [
+        "Marineford Arc"
+    ],
+    "Laffitte": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Limejuice": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc"
+    ],
+    "Little Oars Jr.": [
+        "Marineford Arc"
+    ],
+    "Lucky Roux": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Thatch": [
+        "Marineford Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Mashikaku": [
+        "Marineford Arc",
+        "Arabasta Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc"
+    ],
+    "Smoker": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc",
+        "Long Ring Long Land Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Tashigi": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "McGuy": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Monster": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Drum Island Arc",
+        "Romance Dawn Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Bonk Punch": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Elbaph Arc"
+    ],
+    "Mozambia": [
+        "Marineford Arc",
+        "Jaya Arc"
+    ],
+    "Namur": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Nosgarl": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Penguin": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "PX-1": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "PX-4": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "PX-5": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "PX-7": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Shachi": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Magellan": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Punk Hazard Arc"
+    ],
+    "Sabo": [
+        "Marineford Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc"
+    ],
+    "Sleepy": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc"
+    ],
+    "Speed Jiru": [
+        "Marineford Arc"
+    ],
+    "Stainless": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc"
+    ],
+    "Strawberry": [
+        "Marineford Arc",
+        "Levely Arc",
+        "Arabasta Arc",
+        "Enies Lobby Arc"
+    ],
+    "T Bone": [
+        "Marineford Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Amazon Lily Arc",
+        "Water 7 Arc"
+    ],
+    "Tsunokkov": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Impel Down Arc"
+    ],
+    "Usakkov": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Lines": [
+        "Marineford Arc",
+        "Thriller Bark Arc",
+        "Arabasta Arc",
+        "Baratie Arc"
+    ],
+    "Yamakaji": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Enies Lobby Arc"
+    ],
+    "Urouge": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Whole Cake Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Van Augur": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Vitan": [
+        "Marineford Arc"
+    ],
+    "Yasopp": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Elbaph Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Zodia": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Zucca": [
+        "Marineford Arc",
+        "Post-War Arc"
+    ],
+    "Vegapunk": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Den": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Whisky Peak Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Take": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Buffalo": [
+        "Marineford Arc",
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "John": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Impel Down Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc"
+    ],
+    "Arlong": [
+        "Marineford Arc",
+        "Fish-Man Island Arc",
+        "Loguetown Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Baratie Arc",
+        "Orange Town Arc"
+    ],
+    "Ran": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Mero": [
+        "Marineford Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc"
+    ],
+    "Trafalgar D. Water Law": [
+        "Marineford Arc",
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Whole Cake Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Alvida": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Orange Town Arc"
+    ],
+    "Aphelandra": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Jewelry Bonney": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc"
+    ],
+    "Lily": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Silvers Rayleigh": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Blue Fan": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Boa Marigold": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Boa Sandersonia": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Brannew": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Loguetown Arc"
+    ],
+    "Bunny Joe": [
+        "Post-War Arc"
+    ],
+    "Nico Robin": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Arabasta Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Post Enies Lobby Arc",
+        "Whisky Peak Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Cabaji": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Impel Down Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Orange Town Arc"
+    ],
+    "Mohji": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Impel Down Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Orange Town Arc"
+    ],
+    "Camie": [
+        "Post-War Arc",
+        "Fish-Man Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Duval": [
+        "Post-War Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc",
+        "Post Enies Lobby Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Hatchan": [
+        "Post-War Arc",
+        "Fish-Man Island Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc"
+    ],
+    "Pappag": [
+        "Post-War Arc",
+        "Fish-Man Island Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Chadros Higelyges": [
+        "Post-War Arc",
+        "Punk Hazard Arc"
+    ],
+    "Chaka": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Pell": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Cosmos": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Curly Dadan": [
+        "Post-War Arc",
+        "Wano Country Arc"
+    ],
+    "Makino": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc"
+    ],
+    "Daisy": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Perona": [
+        "Post-War Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Roronoa Zoro": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Sanji": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Post Enies Lobby Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Ethanbaron V. Nusjuro": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Haritsu Kendiyo": [
+        "Post-War Arc"
+    ],
+    "Faust": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Fishbonen": [
+        "Post-War Arc"
+    ],
+    "George Black": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc"
+    ],
+    "Gorilla": [
+        "Post-War Arc"
+    ],
+    "Franky": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Heracles": [
+        "Post-War Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Usopp": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Post Enies Lobby Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Igaram": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Arabasta Arc",
+        "Whisky Peak Arc"
+    ],
+    "Nefertari Cobra": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Karasu": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Terry Gilteo": [
+        "Post-War Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Karoo": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Levely Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whisky Peak Arc"
+    ],
+    "Kasa": [
+        "Post-War Arc"
+    ],
+    "Raijin": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Punk Hazard Arc"
+    ],
+    "Kaya": [
+        "Post-War Arc",
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kikyo": [
+        "Post-War Arc",
+        "Amazon Lily Arc"
+    ],
+    "Kong": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Magra": [
+        "Post-War Arc",
+        "Wano Country Arc"
+    ],
+    "Sphinx": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Marcus Mars": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Marguerite": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Woop Slap": [
+        "Post-War Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Potato": [
+        "Post-War Arc"
+    ],
+    "Richie": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Impel Down Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Orange Town Arc"
+    ],
+    "Candy": [
+        "Post-War Arc",
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Rindo": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Return to Sabaody Arc",
+        "Amazon Lily Arc"
+    ],
+    "Roche Tomson": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Impel Down Arc",
+        "Amazon Lily Arc",
+        "Enies Lobby Arc"
+    ],
+    "Scotch": [
+        "Post-War Arc",
+        "Punk Hazard Arc"
+    ],
+    "X Drake": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Shakuyaku": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Topman Warcury": [
+        "Post-War Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Totts": [
+        "Post-War Arc"
+    ],
+    "Nami": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Post Enies Lobby Arc",
+        "Elbaph Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Haredas": [
+        "Post-War Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Nefertari Vivi": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whisky Peak Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Home": [
+        "Post-War Arc",
+        "Wano Country Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Water 7 Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Tony Tony Chopper": [
+        "Post-War Arc",
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc"
+    ],
+    "Amazon": [
+        "Post-War Arc",
+        "Skypiea Arc"
+    ],
+    "Edward Weevil": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Hajrudin": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Egghead Arc",
+        "Elbaph Arc"
+    ],
+    "Bariete": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Carrot": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Jack": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Skypiea Arc"
+    ],
+    "Kin'emon": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc"
+    ],
+    "Raizo": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Wanda": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Zunesha": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Bartolomeo": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Elbaph Arc"
+    ],
+    "Gambia": [
+        "Zou Arc",
+        "Dressrosa Arc"
+    ],
+    "Brook": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Return to Sabaody Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Nekomamushi": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Roddy": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Blackback": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Inuarashi": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Kouzuki Momonosuke": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc"
+    ],
+    "Pedro": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Buckingham Stussy": [
+        "Zou Arc",
+        "Egghead Arc"
+    ],
+    "Caesar Clown": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc"
+    ],
+    "Pekoms": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc"
+    ],
+    "Wany": [
+        "Zou Arc"
+    ],
+    "Clione": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Concelot": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Giovanni": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Shishilian": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Dalton": [
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Drum Island Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kureha": [
+        "Zou Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Drum Island Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Elizabello II": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Riku Doldo III": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Fukaboshi": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc"
+    ],
+    "Shirahoshi": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Ginrummy": [
+        "Zou Arc",
+        "Dressrosa Arc"
+    ],
+    "Sheepshead": [
+        "Zou Arc",
+        "Dressrosa Arc"
+    ],
+    "Hakugan": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Charlotte Pudding": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Elbaph Arc"
+    ],
+    "Miyagi": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Tristan": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Keith": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Kurozumi Orochi": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Kinderella": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Wapol": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Drum Island Arc"
+    ],
+    "Koala": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Arabasta Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Kouzuki Oden": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Kurozumi Kanjuro": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Manboshi": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc"
+    ],
+    "Neptune": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Otohime": [
+        "Zou Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc"
+    ],
+    "Mansherry": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Levely Arc"
+    ],
+    "Rebecca": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Viola": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Levely Arc"
+    ],
+    "Megalo": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc"
+    ],
+    "Milky": [
+        "Zou Arc"
+    ],
+    "Minister of the Left": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Minister of the Right": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Monjii": [
+        "Zou Arc"
+    ],
+    "Queen Mama Chanter": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Ramen": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Sabaody Archipelago Arc",
+        "Water 7 Arc"
+    ],
+    "Sai": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Enies Lobby Arc"
+    ],
+    "Leo": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Ryuboshi": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc"
+    ],
+    "Ryunosuke": [
+        "Zou Arc"
+    ],
+    "Sarie Nantokanette": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Sterry": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Scratchmen Apoo": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Punk Hazard Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Queen": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Impel Down Arc",
+        "Whole Cake Island Arc",
+        "Whisky Peak Arc"
+    ],
+    "Tamago": [
+        "Zou Arc",
+        "Dressrosa Arc",
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc",
+        "Punk Hazard Arc"
+    ],
+    "Uni": [
+        "Zou Arc",
+        "Wano Country Arc"
+    ],
+    "Vito": [
+        "Zou Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Yomo": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Charlotte Linlin": [
+        "Zou Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Abdullah": [
+        "Dressrosa Arc"
+    ],
+    "Bellamy": [
+        "Dressrosa Arc",
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Blue Gilly": [
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Bobby Funk": [
+        "Dressrosa Arc"
+    ],
+    "Cavendish": [
+        "Dressrosa Arc"
+    ],
+    "Chinjao": [
+        "Dressrosa Arc"
+    ],
+    "Dagama": [
+        "Dressrosa Arc",
+        "Egghead Arc"
+    ],
+    "Ideo": [
+        "Dressrosa Arc"
+    ],
+    "Issho": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Jeet": [
+        "Dressrosa Arc"
+    ],
+    "Kelly Funk": [
+        "Dressrosa Arc"
+    ],
+    "Orlumbus": [
+        "Dressrosa Arc"
+    ],
+    "Pica": [
+        "Dressrosa Arc"
+    ],
+    "Sugar": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Suleiman": [
+        "Dressrosa Arc"
+    ],
+    "Tank Lepanto": [
+        "Dressrosa Arc",
+        "Egghead Arc"
+    ],
+    "Ucy": [
+        "Dressrosa Arc"
+    ],
+    "Acilia": [
+        "Dressrosa Arc"
+    ],
+    "Agyo": [
+        "Dressrosa Arc"
+    ],
+    "Ally": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Arabasta Arc",
+        "Punk Hazard Arc"
+    ],
+    "Baby 5": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Aremo Ganmi": [
+        "Dressrosa Arc"
+    ],
+    "Dellinger": [
+        "Dressrosa Arc"
+    ],
+    "Giolla": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Gladius": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Kyros": [
+        "Dressrosa Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Lao G": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Machvise": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Trebol": [
+        "Dressrosa Arc"
+    ],
+    "Diamante": [
+        "Dressrosa Arc"
+    ],
+    "Gatz": [
+        "Dressrosa Arc"
+    ],
+    "Hack": [
+        "Dressrosa Arc"
+    ],
+    "Kabu": [
+        "Dressrosa Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Maynard": [
+        "Dressrosa Arc"
+    ],
+    "Senor Pink": [
+        "Dressrosa Arc"
+    ],
+    "Baxcon": [
+        "Dressrosa Arc"
+    ],
+    "Cotton": [
+        "Dressrosa Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Daikon": [
+        "Dressrosa Arc"
+    ],
+    "Inhel": [
+        "Dressrosa Arc"
+    ],
+    "Wicca": [
+        "Dressrosa Arc"
+    ],
+    "Mont Blanc Cricket": [
+        "Dressrosa Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Jaya Arc"
+    ],
+    "Mont Blanc Noland": [
+        "Dressrosa Arc",
+        "Skypiea Arc",
+        "Jaya Arc"
+    ],
+    "Bian": [
+        "Dressrosa Arc",
+        "Levely Arc"
+    ],
+    "Rampo": [
+        "Dressrosa Arc"
+    ],
+    "Biyo": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Boo": [
+        "Dressrosa Arc",
+        "Enies Lobby Arc"
+    ],
+    "Spartan": [
+        "Dressrosa Arc"
+    ],
+    "Bobomba": [
+        "Dressrosa Arc"
+    ],
+    "Bomba": [
+        "Dressrosa Arc"
+    ],
+    "Flapper": [
+        "Dressrosa Arc"
+    ],
+    "Nubon": [
+        "Dressrosa Arc"
+    ],
+    "Pellini": [
+        "Dressrosa Arc"
+    ],
+    "Kyuin": [
+        "Dressrosa Arc"
+    ],
+    "Farul": [
+        "Dressrosa Arc"
+    ],
+    "Chao": [
+        "Dressrosa Arc"
+    ],
+    "Chicory": [
+        "Dressrosa Arc"
+    ],
+    "Jean Ango": [
+        "Dressrosa Arc"
+    ],
+    "Columbus": [
+        "Dressrosa Arc"
+    ],
+    "Gancho": [
+        "Dressrosa Arc"
+    ],
+    "Damask": [
+        "Dressrosa Arc"
+    ],
+    "Mummy": [
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Scarlett": [
+        "Dressrosa Arc"
+    ],
+    "Doran": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Eikon": [
+        "Dressrosa Arc"
+    ],
+    "Rolling Logan": [
+        "Dressrosa Arc"
+    ],
+    "Ginko": [
+        "Dressrosa Arc"
+    ],
+    "Uta": [
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Gismonda": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Guernika": [
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Joseph": [
+        "Dressrosa Arc",
+        "Wano Country Arc"
+    ],
+    "Grabar": [
+        "Dressrosa Arc"
+    ],
+    "Hototogisu": [
+        "Dressrosa Arc"
+    ],
+    "Ibusu": [
+        "Dressrosa Arc"
+    ],
+    "Jaygarcia Saturn": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Konbu": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Maujii": [
+        "Dressrosa Arc"
+    ],
+    "Meadows": [
+        "Dressrosa Arc"
+    ],
+    "Milo": [
+        "Dressrosa Arc"
+    ],
+    "Mocha": [
+        "Dressrosa Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc"
+    ],
+    "Pike": [
+        "Dressrosa Arc",
+        "Fish-Man Island Arc",
+        "Punk Hazard Arc"
+    ],
+    "S-Shark": [
+        "Dressrosa Arc",
+        "Egghead Arc"
+    ],
+    "Shepherd Ju Peter": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Shin Detamaruka": [
+        "Dressrosa Arc"
+    ],
+    "Shin Jaiya": [
+        "Dressrosa Arc"
+    ],
+    "Sind": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Spandam": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Enies Lobby Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc"
+    ],
+    "Rob Lucci": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Punk Hazard Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Tarara": [
+        "Dressrosa Arc"
+    ],
+    "Tegata Ringana": [
+        "Dressrosa Arc"
+    ],
+    "Uhho": [
+        "Dressrosa Arc"
+    ],
+    "Uzu": [
+        "Dressrosa Arc",
+        "Punk Hazard Arc"
+    ],
+    "Vinsmoke Judge": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Wire": [
+        "Dressrosa Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whisky Peak Arc"
+    ],
+    "Inuppe": [
+        "Thriller Bark Arc"
+    ],
+    "Kumashi": [
+        "Thriller Bark Arc",
+        "Wano Country Arc"
+    ],
+    "Lola": [
+        "Thriller Bark Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Tararan": [
+        "Thriller Bark Arc"
+    ],
+    "Victoria Cindry": [
+        "Thriller Bark Arc"
+    ],
+    "Asahija": [
+        "Thriller Bark Arc"
+    ],
+    "Bao": [
+        "Thriller Bark Arc",
+        "Wano Country Arc"
+    ],
+    "Buhichuck": [
+        "Thriller Bark Arc"
+    ],
+    "Cerberus": [
+        "Thriller Bark Arc"
+    ],
+    "Charlotte Lola": [
+        "Thriller Bark Arc"
+    ],
+    "Risky Brothers": [
+        "Thriller Bark Arc"
+    ],
+    "Spoil": [
+        "Thriller Bark Arc"
+    ],
+    "Crocus": [
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc",
+        "Whisky Peak Arc",
+        "Reverse Mountain Arc"
+    ],
+    "Laboon": [
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Reverse Mountain Arc"
+    ],
+    "Egana": [
+        "Thriller Bark Arc"
+    ],
+    "Margarita": [
+        "Thriller Bark Arc"
+    ],
+    "Hildon": [
+        "Thriller Bark Arc"
+    ],
+    "Jigoro": [
+        "Thriller Bark Arc"
+    ],
+    "Goo": [
+        "Thriller Bark Arc"
+    ],
+    "Gyoro": [
+        "Thriller Bark Arc"
+    ],
+    "Ryuma": [
+        "Thriller Bark Arc",
+        "Wano Country Arc"
+    ],
+    "Hippo Gentleman": [
+        "Thriller Bark Arc"
+    ],
+    "MocDonald": [
+        "Thriller Bark Arc"
+    ],
+    "Unigaro": [
+        "Thriller Bark Arc"
+    ],
+    "Nin": [
+        "Thriller Bark Arc"
+    ],
+    "Atlas": [
+        "Thriller Bark Arc",
+        "Egghead Arc"
+    ],
+    "Barrel": [
+        "Thriller Bark Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc",
+        "Whisky Peak Arc"
+    ],
+    "Going Merry": [
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Impel Down Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Merry": [
+        "Thriller Bark Arc",
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Little Garden Arc",
+        "Drum Island Arc",
+        "Arabasta Arc",
+        "Loguetown Arc",
+        "Jaya Arc",
+        "Enies Lobby Arc",
+        "Arlong Park Arc",
+        "Whisky Peak Arc",
+        "Baratie Arc",
+        "Long Ring Long Land Arc",
+        "Water 7 Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Wheel": [
+        "Thriller Bark Arc",
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Ho": [
+        "Thriller Bark Arc",
+        "Skypiea Arc",
+        "Arabasta Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Pound": [
+        "Thriller Bark Arc",
+        "Skypiea Arc",
+        "Whole Cake Island Arc",
+        "Sabaody Archipelago Arc",
+        "Water 7 Arc"
+    ],
+    "Kokoro": [
+        "Thriller Bark Arc",
+        "Fish-Man Island Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Mario": [
+        "Thriller Bark Arc"
+    ],
+    "Ageha Woman": [
+        "Wano Country Arc"
+    ],
+    "Hawkman": [
+        "Wano Country Arc"
+    ],
+    "Koshi Falcon": [
+        "Wano Country Arc"
+    ],
+    "Akudai Kanzaburo": [
+        "Wano Country Arc"
+    ],
+    "Shinobu": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Waruno Furishiro": [
+        "Wano Country Arc"
+    ],
+    "Alpacaman": [
+        "Wano Country Arc"
+    ],
+    "Hyougoro": [
+        "Wano Country Arc"
+    ],
+    "Madilloman": [
+        "Wano Country Arc"
+    ],
+    "Aramaki": [
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Babanuki": [
+        "Wano Country Arc"
+    ],
+    "Denjiro": [
+        "Wano Country Arc"
+    ],
+    "Kawamatsu": [
+        "Wano Country Arc"
+    ],
+    "Morley": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Ratel": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Yamato": [
+        "Wano Country Arc"
+    ],
+    "Asashichi": [
+        "Wano Country Arc"
+    ],
+    "Page One": [
+        "Wano Country Arc"
+    ],
+    "Ashura Doji": [
+        "Wano Country Arc"
+    ],
+    "Holed'em": [
+        "Wano Country Arc"
+    ],
+    "Kikunojo": [
+        "Wano Country Arc"
+    ],
+    "Kouzuki Hiyori": [
+        "Wano Country Arc"
+    ],
+    "Shimotsuki Yasuie": [
+        "Wano Country Arc"
+    ],
+    "Atagoyama": [
+        "Wano Country Arc"
+    ],
+    "Urashima": [
+        "Wano Country Arc"
+    ],
+    "Attach": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Punk Hazard Arc",
+        "Post Enies Lobby Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Jabari": [
+        "Wano Country Arc"
+    ],
+    "Morgans": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Azuki": [
+        "Wano Country Arc"
+    ],
+    "Bingo": [
+        "Wano Country Arc"
+    ],
+    "Bongo": [
+        "Wano Country Arc"
+    ],
+    "Bungo": [
+        "Wano Country Arc"
+    ],
+    "Toko": [
+        "Wano Country Arc"
+    ],
+    "Daifugo": [
+        "Wano Country Arc"
+    ],
+    "Kurozumi Tama": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Tama": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Bao Huang": [
+        "Wano Country Arc"
+    ],
+    "Black Maria": [
+        "Wano Country Arc"
+    ],
+    "Ulti": [
+        "Wano Country Arc"
+    ],
+    "Charlotte Perospero": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Doll": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Kiku": [
+        "Wano Country Arc",
+        "Amazon Lily Arc"
+    ],
+    "Komachiyo": [
+        "Wano Country Arc"
+    ],
+    "Stealth Black": [
+        "Wano Country Arc"
+    ],
+    "Who's-Who": [
+        "Wano Country Arc"
+    ],
+    "Batman": [
+        "Wano Country Arc"
+    ],
+    "Gazelleman": [
+        "Wano Country Arc"
+    ],
+    "Rabbitman": [
+        "Wano Country Arc"
+    ],
+    "Snakeman": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Battaman": [
+        "Wano Country Arc"
+    ],
+    "Beegirl": [
+        "Wano Country Arc"
+    ],
+    "Jumper": [
+        "Wano Country Arc"
+    ],
+    "Beetleman": [
+        "Wano Country Arc"
+    ],
+    "Kamakirigirl": [
+        "Wano Country Arc"
+    ],
+    "Nokokuwa Police": [
+        "Wano Country Arc"
+    ],
+    "Belo Betty": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Bishamon": [
+        "Wano Country Arc"
+    ],
+    "Chome": [
+        "Wano Country Arc"
+    ],
+    "Daikoku": [
+        "Wano Country Arc"
+    ],
+    "Fukurokuju": [
+        "Wano Country Arc"
+    ],
+    "Sarutobi": [
+        "Wano Country Arc"
+    ],
+    "Bishonure-Onna": [
+        "Wano Country Arc"
+    ],
+    "Bisley": [
+        "Wano Country Arc"
+    ],
+    "Sasaki": [
+        "Wano Country Arc"
+    ],
+    "Caimanlady": [
+        "Wano Country Arc"
+    ],
+    "Wanyudo": [
+        "Wano Country Arc"
+    ],
+    "Blueno": [
+        "Wano Country Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Fukurou": [
+        "Wano Country Arc",
+        "Enies Lobby Arc"
+    ],
+    "Jabra": [
+        "Wano Country Arc",
+        "Enies Lobby Arc"
+    ],
+    "Kalifa": [
+        "Wano Country Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Kumadori": [
+        "Wano Country Arc",
+        "Enies Lobby Arc"
+    ],
+    "Boogie": [
+        "Wano Country Arc"
+    ],
+    "Hera": [
+        "Wano Country Arc"
+    ],
+    "Charlos": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Amazon Lily Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Tensei": [
+        "Wano Country Arc"
+    ],
+    "Briscola": [
+        "Wano Country Arc"
+    ],
+    "Bubblegum": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Pomp": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "UK": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Bunbuku": [
+        "Wano Country Arc"
+    ],
+    "Caribou": [
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc",
+        "Elbaph Arc"
+    ],
+    "Dobon": [
+        "Wano Country Arc"
+    ],
+    "Prometheus": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Zeus": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Elbaph Arc"
+    ],
+    "Caucasusman": [
+        "Wano Country Arc"
+    ],
+    "Hatcha": [
+        "Wano Country Arc"
+    ],
+    "Usunoro": [
+        "Wano Country Arc"
+    ],
+    "Donquixote Mjosgard": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Charlotte Amande": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Basskarte": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Broyé": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Compote": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Cornstarch": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Daifuku": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Dosmarche": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Effilée": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Flampe": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Galette": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mobile": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mont-d'Or": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Poire": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Raisin": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Smoothie": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Tablet": [
+        "Wano Country Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Zuccotto": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Chihaya": [
+        "Wano Country Arc"
+    ],
+    "Sarahebi": [
+        "Wano Country Arc"
+    ],
+    "Cho": [
+        "Wano Country Arc"
+    ],
+    "Chochinman": [
+        "Wano Country Arc"
+    ],
+    "Chocho": [
+        "Wano Country Arc"
+    ],
+    "Kouzuki Toki": [
+        "Wano Country Arc"
+    ],
+    "Tsurujo": [
+        "Wano Country Arc"
+    ],
+    "Chokyumei-no Chosuke": [
+        "Wano Country Arc"
+    ],
+    "Fujin": [
+        "Wano Country Arc"
+    ],
+    "Hanzo": [
+        "Wano Country Arc"
+    ],
+    "Chuji": [
+        "Wano Country Arc"
+    ],
+    "Dachoman": [
+        "Wano Country Arc"
+    ],
+    "Hamlet": [
+        "Wano Country Arc"
+    ],
+    "Kazekage": [
+        "Wano Country Arc"
+    ],
+    "Kouzuki Sukiyaki": [
+        "Wano Country Arc"
+    ],
+    "Dive": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Dogra": [
+        "Wano Country Arc"
+    ],
+    "Donannoyo": [
+        "Wano Country Arc"
+    ],
+    "Dotaku": [
+        "Wano Country Arc"
+    ],
+    "Kojuro": [
+        "Wano Country Arc"
+    ],
+    "Doubt Brothers": [
+        "Wano Country Arc"
+    ],
+    "Imu": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Misery": [
+        "Wano Country Arc"
+    ],
+    "Napoleon": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Fourtricks": [
+        "Wano Country Arc"
+    ],
+    "Fuga": [
+        "Wano Country Arc"
+    ],
+    "Inbi": [
+        "Wano Country Arc"
+    ],
+    "Kazenbo": [
+        "Wano Country Arc"
+    ],
+    "Rokki": [
+        "Wano Country Arc"
+    ],
+    "Zanki": [
+        "Wano Country Arc"
+    ],
+    "Hotei": [
+        "Wano Country Arc"
+    ],
+    "Furrari": [
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Chap": [
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Sauce": [
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Gab": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Gama Pyonnosuke": [
+        "Wano Country Arc"
+    ],
+    "Gangaru": [
+        "Wano Country Arc"
+    ],
+    "Garudan": [
+        "Wano Country Arc"
+    ],
+    "Gattenshochinosukeo": [
+        "Wano Country Arc"
+    ],
+    "Gig": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Ginnosuke": [
+        "Wano Country Arc"
+    ],
+    "Giro Chintaro": [
+        "Wano Country Arc"
+    ],
+    "Toyama Tsujigiro": [
+        "Wano Country Arc"
+    ],
+    "Goki": [
+        "Wano Country Arc"
+    ],
+    "Jaki": [
+        "Wano Country Arc"
+    ],
+    "Juki": [
+        "Wano Country Arc"
+    ],
+    "Gorishiro": [
+        "Wano Country Arc"
+    ],
+    "Mizerka": [
+        "Wano Country Arc"
+    ],
+    "Poker": [
+        "Wano Country Arc"
+    ],
+    "Gorobe": [
+        "Wano Country Arc"
+    ],
+    "Maha": [
+        "Wano Country Arc"
+    ],
+    "Hanji": [
+        "Wano Country Arc"
+    ],
+    "Hara": [
+        "Wano Country Arc"
+    ],
+    "Hareji": [
+        "Wano Country Arc"
+    ],
+    "Draw": [
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Little Garden Arc",
+        "Arabasta Arc",
+        "Whole Cake Island Arc",
+        "Jaya Arc",
+        "Arlong Park Arc",
+        "Baratie Arc",
+        "Syrup Village Arc",
+        "Reverse Mountain Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Hatsume": [
+        "Wano Country Arc"
+    ],
+    "Hidayu": [
+        "Wano Country Arc"
+    ],
+    "Hihimaru": [
+        "Wano Country Arc"
+    ],
+    "Hikkomitsukumai": [
+        "Wano Country Arc"
+    ],
+    "Dashiteyaro": [
+        "Wano Country Arc"
+    ],
+    "Himuro": [
+        "Wano Country Arc"
+    ],
+    "Hippan Natte": [
+        "Wano Country Arc"
+    ],
+    "Neoki": [
+        "Wano Country Arc"
+    ],
+    "Nodoi Wakan": [
+        "Wano Country Arc"
+    ],
+    "Hiroshi": [
+        "Wano Country Arc"
+    ],
+    "Saikoro": [
+        "Wano Country Arc"
+    ],
+    "Wakasa": [
+        "Wano Country Arc"
+    ],
+    "Hoisassa": [
+        "Wano Country Arc"
+    ],
+    "Kamijiro": [
+        "Wano Country Arc"
+    ],
+    "Hongo": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Elbaph Arc"
+    ],
+    "Horseman": [
+        "Wano Country Arc"
+    ],
+    "Omasa": [
+        "Wano Country Arc"
+    ],
+    "Yatappe": [
+        "Wano Country Arc"
+    ],
+    "Ibiributsu": [
+        "Wano Country Arc"
+    ],
+    "Ikkaku": [
+        "Wano Country Arc"
+    ],
+    "Inoichibannosuke": [
+        "Wano Country Arc"
+    ],
+    "Nika": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Jibuemon": [
+        "Wano Country Arc"
+    ],
+    "Jigoku Benten": [
+        "Wano Country Arc"
+    ],
+    "Jugemu Jugemuko": [
+        "Wano Country Arc"
+    ],
+    "Jujiro": [
+        "Wano Country Arc"
+    ],
+    "Monjiro": [
+        "Wano Country Arc"
+    ],
+    "Kagero": [
+        "Wano Country Arc"
+    ],
+    "Kaku": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Kuni": [
+        "Wano Country Arc"
+    ],
+    "Suke": [
+        "Wano Country Arc"
+    ],
+    "Lindbergh": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Pluming": [
+        "Wano Country Arc"
+    ],
+    "Onimaru": [
+        "Wano Country Arc"
+    ],
+    "Shimotsuki Ushimaru": [
+        "Wano Country Arc"
+    ],
+    "Kikipatsu": [
+        "Wano Country Arc"
+    ],
+    "Maki": [
+        "Wano Country Arc"
+    ],
+    "Tori": [
+        "Wano Country Arc"
+    ],
+    "Arrow": [
+        "Wano Country Arc",
+        "Arabasta Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Yokozuna": [
+        "Wano Country Arc",
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Hinokizu": [
+        "Wano Country Arc"
+    ],
+    "Minatomo": [
+        "Wano Country Arc"
+    ],
+    "Kinbo": [
+        "Wano Country Arc"
+    ],
+    "Yame": [
+        "Wano Country Arc"
+    ],
+    "Joy Boy": [
+        "Wano Country Arc",
+        "Fish-Man Island Arc",
+        "Egghead Arc"
+    ],
+    "Kisegawa": [
+        "Wano Country Arc"
+    ],
+    "Kobe": [
+        "Wano Country Arc"
+    ],
+    "Kumagoro": [
+        "Wano Country Arc"
+    ],
+    "Rakuda": [
+        "Wano Country Arc"
+    ],
+    "Tokijiro": [
+        "Wano Country Arc"
+    ],
+    "S-Hawk": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Kakunoshin": [
+        "Wano Country Arc"
+    ],
+    "Ukon": [
+        "Wano Country Arc"
+    ],
+    "Kunyun": [
+        "Wano Country Arc"
+    ],
+    "Jaguar D. Saul": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Nure-Onna": [
+        "Wano Country Arc"
+    ],
+    "Tenjo-Sagari": [
+        "Wano Country Arc"
+    ],
+    "Kurosawa": [
+        "Wano Country Arc"
+    ],
+    "Makino's Child": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "S-Snake": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Sweet Pea": [
+        "Wano Country Arc",
+        "Amazon Lily Arc"
+    ],
+    "Massui": [
+        "Wano Country Arc"
+    ],
+    "Mosh": [
+        "Wano Country Arc"
+    ],
+    "Mouseman": [
+        "Wano Country Arc"
+    ],
+    "Nangi": [
+        "Wano Country Arc"
+    ],
+    "Nefertari D. Lili": [
+        "Wano Country Arc"
+    ],
+    "Nightcrab Girl": [
+        "Wano Country Arc"
+    ],
+    "Nokotti": [
+        "Wano Country Arc"
+    ],
+    "Clou D. Clover": [
+        "Wano Country Arc"
+    ],
+    "Nico Olvia": [
+        "Wano Country Arc"
+    ],
+    "Oide": [
+        "Wano Country Arc",
+        "Egghead Arc"
+    ],
+    "Tsunagoro": [
+        "Wano Country Arc"
+    ],
+    "Shimotsuki Ryuma": [
+        "Wano Country Arc"
+    ],
+    "Papas": [
+        "Wano Country Arc"
+    ],
+    "Pudos": [
+        "Wano Country Arc"
+    ],
+    "Reck": [
+        "Wano Country Arc"
+    ],
+    "Ham Burger": [
+        "Wano Country Arc",
+        "Levely Arc"
+    ],
+    "Rosward": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Saitank": [
+        "Wano Country Arc"
+    ],
+    "Scorpionlady": [
+        "Wano Country Arc"
+    ],
+    "Sandayu": [
+        "Wano Country Arc"
+    ],
+    "Rocks D. Xebec": [
+        "Wano Country Arc"
+    ],
+    "Sennorikyuru": [
+        "Wano Country Arc"
+    ],
+    "Shinosuke": [
+        "Wano Country Arc"
+    ],
+    "Solitaire": [
+        "Wano Country Arc"
+    ],
+    "Stussy": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Sugamichi": [
+        "Wano Country Arc"
+    ],
+    "Tabuhachiro": [
+        "Wano Country Arc"
+    ],
+    "Takao": [
+        "Wano Country Arc"
+    ],
+    "Tamikebao": [
+        "Wano Country Arc"
+    ],
+    "Tsugaru Umi": [
+        "Wano Country Arc"
+    ],
+    "Tsurue Monnosuke": [
+        "Wano Country Arc"
+    ],
+    "Uwattsura": [
+        "Wano Country Arc"
+    ],
+    "Uzuki Namida": [
+        "Wano Country Arc"
+    ],
+    "Warazane": [
+        "Wano Country Arc"
+    ],
+    "Yamanba": [
+        "Wano Country Arc"
+    ],
+    "Yazaemon": [
+        "Wano Country Arc"
+    ],
+    "Yokan": [
+        "Wano Country Arc"
+    ],
+    "Zangirimaru": [
+        "Wano Country Arc"
+    ],
+    "Road": [
+        "Wano Country Arc",
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Elbaph Arc"
+    ],
+    "Hattori": [
+        "Wano Country Arc",
+        "Levely Arc",
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Adele": [
+        "Fish-Man Island Arc"
+    ],
+    "Fillonce": [
+        "Fish-Man Island Arc"
+    ],
+    "Hammond": [
+        "Fish-Man Island Arc"
+    ],
+    "Ishilly": [
+        "Fish-Man Island Arc"
+    ],
+    "Ankoro": [
+        "Fish-Man Island Arc"
+    ],
+    "Vander Decken": [
+        "Fish-Man Island Arc"
+    ],
+    "Vander Decken IX": [
+        "Fish-Man Island Arc"
+    ],
+    "Wadatsumi": [
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Blakey": [
+        "Fish-Man Island Arc"
+    ],
+    "Maria Napole": [
+        "Fish-Man Island Arc"
+    ],
+    "Miles": [
+        "Fish-Man Island Arc"
+    ],
+    "Fisher Tiger": [
+        "Fish-Man Island Arc"
+    ],
+    "Hoe": [
+        "Fish-Man Island Arc",
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Shyarly": [
+        "Fish-Man Island Arc"
+    ],
+    "Drip": [
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Momoo": [
+        "Fish-Man Island Arc",
+        "Arlong Park Arc"
+    ],
+    "Bobbin": [
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Coribou": [
+        "Fish-Man Island Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Hody Jones": [
+        "Fish-Man Island Arc"
+    ],
+    "Iceburg": [
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Tom": [
+        "Fish-Man Island Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Dosun": [
+        "Fish-Man Island Arc"
+    ],
+    "Zeo": [
+        "Fish-Man Island Arc"
+    ],
+    "Gyro": [
+        "Fish-Man Island Arc"
+    ],
+    "Hyouzou": [
+        "Fish-Man Island Arc"
+    ],
+    "Kasagoba": [
+        "Fish-Man Island Arc"
+    ],
+    "Hiramera": [
+        "Fish-Man Island Arc"
+    ],
+    "Ichika": [
+        "Fish-Man Island Arc"
+    ],
+    "Ikaros Much": [
+        "Fish-Man Island Arc"
+    ],
+    "Daidalos": [
+        "Fish-Man Island Arc"
+    ],
+    "Jean Noueilles": [
+        "Fish-Man Island Arc"
+    ],
+    "Junan": [
+        "Fish-Man Island Arc"
+    ],
+    "Kairen": [
+        "Fish-Man Island Arc"
+    ],
+    "Lulis": [
+        "Fish-Man Island Arc"
+    ],
+    "Surume": [
+        "Fish-Man Island Arc"
+    ],
+    "Nitro": [
+        "Fish-Man Island Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Octopako": [
+        "Fish-Man Island Arc"
+    ],
+    "Sanka": [
+        "Fish-Man Island Arc"
+    ],
+    "Seira": [
+        "Fish-Man Island Arc"
+    ],
+    "Splash": [
+        "Fish-Man Island Arc"
+    ],
+    "Splatter": [
+        "Fish-Man Island Arc"
+    ],
+    "Yonka Two": [
+        "Fish-Man Island Arc"
+    ],
+    "Yonka": [
+        "Fish-Man Island Arc"
+    ],
+    "Demalo Black": [
+        "Fish-Man Island Arc",
+        "Egghead Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Ahiru": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Ban Dedessinée": [
+        "Levely Arc"
+    ],
+    "Peachbeard": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Catacombo": [
+        "Levely Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Jeep": [
+        "Levely Arc"
+    ],
+    "Tea IV": [
+        "Levely Arc"
+    ],
+    "Beer VI": [
+        "Levely Arc"
+    ],
+    "Mororon": [
+        "Levely Arc"
+    ],
+    "Gambo": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Gion": [
+        "Levely Arc"
+    ],
+    "Tokikake": [
+        "Levely Arc"
+    ],
+    "Hakowan": [
+        "Levely Arc"
+    ],
+    "Iwatobi": [
+        "Levely Arc"
+    ],
+    "Moqueca": [
+        "Levely Arc"
+    ],
+    "Conney": [
+        "Levely Arc"
+    ],
+    "Komane": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Seki": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Lemoncheese": [
+        "Levely Arc"
+    ],
+    "Moda": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Nashi": [
+        "Levely Arc"
+    ],
+    "Neggy": [
+        "Levely Arc"
+    ],
+    "Potaufeu": [
+        "Levely Arc"
+    ],
+    "Samosa": [
+        "Levely Arc"
+    ],
+    "Stroganoff": [
+        "Levely Arc"
+    ],
+    "Tritobu": [
+        "Levely Arc"
+    ],
+    "Ushiano": [
+        "Levely Arc",
+        "Egghead Arc"
+    ],
+    "Yarisugi": [
+        "Levely Arc"
+    ],
+    "Aisa": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Conis": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Nola": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Wyper": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Alice": [
+        "Egghead Arc"
+    ],
+    "Tilestone": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "An Zengaiina": [
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Brogy": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Enies Lobby Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Dorry": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Enies Lobby Arc",
+        "Elbaph Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Edison": [
+        "Egghead Arc"
+    ],
+    "Guillotine": [
+        "Egghead Arc"
+    ],
+    "Lilith": [
+        "Egghead Arc"
+    ],
+    "Pomsky": [
+        "Egghead Arc"
+    ],
+    "Pythagoras": [
+        "Egghead Arc"
+    ],
+    "Red King": [
+        "Egghead Arc"
+    ],
+    "Shaka": [
+        "Egghead Arc"
+    ],
+    "Tosa": [
+        "Egghead Arc"
+    ],
+    "York": [
+        "Egghead Arc"
+    ],
+    "Belladonna": [
+        "Egghead Arc",
+        "Amazon Lily Arc"
+    ],
+    "Rockstar": [
+        "Egghead Arc",
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Bjorn": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Elbaph Arc"
+    ],
+    "Kashii": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Oimo": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Bluegrass": [
+        "Egghead Arc"
+    ],
+    "Gloriosa": [
+        "Egghead Arc",
+        "Amazon Lily Arc"
+    ],
+    "Boodle": [
+        "Egghead Arc",
+        "Orange Town Arc"
+    ],
+    "Chouchou": [
+        "Egghead Arc",
+        "Orange Town Arc"
+    ],
+    "Braham": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Island Eater": [
+        "Egghead Arc",
+        "Little Garden Arc"
+    ],
+    "Building Snake": [
+        "Egghead Arc"
+    ],
+    "Chabo": [
+        "Egghead Arc",
+        "Arlong Park Arc"
+    ],
+    "Charlotte Brownie": [
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Katakuri": [
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Kato": [
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Moscato": [
+        "Egghead Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Chichilisia": [
+        "Egghead Arc"
+    ],
+    "Uholisia": [
+        "Egghead Arc"
+    ],
+    "Cocox": [
+        "Egghead Arc",
+        "Syrup Village Arc"
+    ],
+    "Gaimon": [
+        "Egghead Arc",
+        "Orange Town Arc",
+        "Syrup Village Arc"
+    ],
+    "Sarfunkel": [
+        "Egghead Arc"
+    ],
+    "Comil": [
+        "Egghead Arc",
+        "Jaya Arc"
+    ],
+    "Manjaro": [
+        "Egghead Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Turco": [
+        "Egghead Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Emet": [
+        "Egghead Arc"
+    ],
+    "Urban": [
+        "Egghead Arc"
+    ],
+    "Figarland Garling": [
+        "Egghead Arc"
+    ],
+    "Drophy": [
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Marianne": [
+        "Egghead Arc",
+        "Little Garden Arc"
+    ],
+    "Mikita": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Whisky Peak Arc"
+    ],
+    "Emma": [
+        "Egghead Arc"
+    ],
+    "Nerona Imu": [
+        "Egghead Arc"
+    ],
+    "Erik": [
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Foxy": [
+        "Egghead Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Hamburg": [
+        "Egghead Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Porche": [
+        "Egghead Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Jiron": [
+        "Egghead Arc"
+    ],
+    "Genbo": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Genzo": [
+        "Egghead Arc",
+        "Arlong Park Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Nojiko": [
+        "Egghead Arc",
+        "Arlong Park Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Gerotini": [
+        "Egghead Arc"
+    ],
+    "Gin": [
+        "Egghead Arc",
+        "Baratie Arc"
+    ],
+    "Krieg": [
+        "Egghead Arc",
+        "Loguetown Arc",
+        "Baratie Arc"
+    ],
+    "Hibari": [
+        "Egghead Arc"
+    ],
+    "Prince Grus": [
+        "Egghead Arc"
+    ],
+    "Kujaku": [
+        "Egghead Arc"
+    ],
+    "Hound": [
+        "Egghead Arc"
+    ],
+    "Peepley Lulu": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Iyan'eno Chinode": [
+        "Egghead Arc"
+    ],
+    "Jean Goen": [
+        "Egghead Arc",
+        "Impel Down Arc"
+    ],
+    "Ginny": [
+        "Egghead Arc"
+    ],
+    "Joshu": [
+        "Egghead Arc"
+    ],
+    "Kamakiri": [
+        "Egghead Arc",
+        "Skypiea Arc"
+    ],
+    "Kappa": [
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Ninjin": [
+        "Egghead Arc",
+        "Post Enies Lobby Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Piiman": [
+        "Egghead Arc",
+        "Post Enies Lobby Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Tamanegi": [
+        "Egghead Arc",
+        "Post Enies Lobby Arc",
+        "Syrup Village Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Koza": [
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Toto": [
+        "Egghead Arc",
+        "Arabasta Arc"
+    ],
+    "Mecha-Shark": [
+        "Egghead Arc"
+    ],
+    "Linaria": [
+        "Egghead Arc"
+    ],
+    "Masira": [
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Jaya Arc"
+    ],
+    "Shoujou": [
+        "Egghead Arc",
+        "Skypiea Arc",
+        "Jaya Arc"
+    ],
+    "Miss Catherina": [
+        "Egghead Arc",
+        "Whisky Peak Arc"
+    ],
+    "Miss Monday": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Whisky Peak Arc"
+    ],
+    "Mr. 9": [
+        "Egghead Arc",
+        "Whisky Peak Arc",
+        "Water 7 Arc",
+        "Reverse Mountain Arc"
+    ],
+    "Morgan": [
+        "Egghead Arc",
+        "Romance Dawn Arc",
+        "Loguetown Arc"
+    ],
+    "Miss Friday": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Whisky Peak Arc",
+        "Reverse Mountain Arc"
+    ],
+    "Nako": [
+        "Egghead Arc",
+        "Arlong Park Arc"
+    ],
+    "Oli": [
+        "Egghead Arc"
+    ],
+    "Patty": [
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Baratie Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Zeff": [
+        "Egghead Arc",
+        "Whole Cake Island Arc",
+        "Arlong Park Arc",
+        "Baratie Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Paulie": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Pearl": [
+        "Egghead Arc",
+        "Baratie Arc"
+    ],
+    "Pururu": [
+        "Egghead Arc"
+    ],
+    "S-Bear": [
+        "Egghead Arc"
+    ],
+    "Roshio": [
+        "Egghead Arc",
+        "Jaya Arc"
+    ],
+    "Salome": [
+        "Egghead Arc"
+    ],
+    "Sancrin": [
+        "Egghead Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Devil Dias": [
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Shalria": [
+        "Egghead Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Shelly": [
+        "Egghead Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Tonjit": [
+        "Egghead Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Shimotsuki Koushirou": [
+        "Egghead Arc"
+    ],
+    "Sig": [
+        "Egghead Arc",
+        "Enies Lobby Arc",
+        "Elbaph Arc"
+    ],
+    "Tonjil": [
+        "Egghead Arc"
+    ],
+    "Tonsfer": [
+        "Egghead Arc"
+    ],
+    "Tyrannosaurus": [
+        "Egghead Arc",
+        "Little Garden Arc",
+        "Water 7 Arc"
+    ],
+    "Usagihebi": [
+        "Egghead Arc",
+        "Syrup Village Arc"
+    ],
+    "Enel": [
+        "Skypiea Arc",
+        "Jaya Arc"
+    ],
+    "Gan Fall": [
+        "Skypiea Arc",
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Pagaya": [
+        "Skypiea Arc"
+    ],
+    "Pierre": [
+        "Skypiea Arc"
+    ],
+    "Raki": [
+        "Skypiea Arc"
+    ],
+    "Su": [
+        "Skypiea Arc"
+    ],
+    "Shura": [
+        "Skypiea Arc"
+    ],
+    "Holy": [
+        "Skypiea Arc"
+    ],
+    "McKinley": [
+        "Skypiea Arc"
+    ],
+    "Gedatsu": [
+        "Skypiea Arc"
+    ],
+    "Ohm": [
+        "Skypiea Arc"
+    ],
+    "Fuza": [
+        "Skypiea Arc"
+    ],
+    "Satori": [
+        "Skypiea Arc"
+    ],
+    "Yama": [
+        "Skypiea Arc"
+    ],
+    "Gode": [
+        "Skypiea Arc"
+    ],
+    "Mayushika": [
+        "Skypiea Arc"
+    ],
+    "Yotsubane": [
+        "Skypiea Arc"
+    ],
+    "Hotori": [
+        "Skypiea Arc"
+    ],
+    "Isa": [
+        "Skypiea Arc"
+    ],
+    "Shandia Chief": [
+        "Skypiea Arc"
+    ],
+    "Kotori": [
+        "Skypiea Arc"
+    ],
+    "Marilyn": [
+        "Skypiea Arc"
+    ],
+    "Warashi": [
+        "Skypiea Arc"
+    ],
+    "Mochi": [
+        "Skypiea Arc"
+    ],
+    "Moyle": [
+        "Skypiea Arc"
+    ],
+    "Kalgara": [
+        "Skypiea Arc"
+    ],
+    "Seto": [
+        "Skypiea Arc"
+    ],
+    "Zabo": [
+        "Skypiea Arc"
+    ],
+    "Goro": [
+        "Skypiea Arc"
+    ],
+    "Master": [
+        "Skypiea Arc",
+        "Drum Island Arc",
+        "Punk Hazard Arc",
+        "Jaya Arc",
+        "Baratie Arc",
+        "Water 7 Arc",
+        "Orange Town Arc"
+    ],
+    "Basilisk": [
+        "Impel Down Arc"
+    ],
+    "Bellett": [
+        "Impel Down Arc"
+    ],
+    "Hannyabal": [
+        "Impel Down Arc"
+    ],
+    "Matsuge": [
+        "Impel Down Arc",
+        "Arabasta Arc"
+    ],
+    "Minotaurus": [
+        "Impel Down Arc"
+    ],
+    "Daigin": [
+        "Impel Down Arc"
+    ],
+    "Sadi": [
+        "Impel Down Arc"
+    ],
+    "Mr. 7": [
+        "Impel Down Arc",
+        "Arabasta Arc"
+    ],
+    "Dobby Ibadonbo": [
+        "Impel Down Arc"
+    ],
+    "Doha Ittanka II": [
+        "Impel Down Arc"
+    ],
+    "Domino": [
+        "Impel Down Arc"
+    ],
+    "Francois": [
+        "Impel Down Arc"
+    ],
+    "Saldeath": [
+        "Impel Down Arc"
+    ],
+    "Minokoala": [
+        "Impel Down Arc"
+    ],
+    "Minorhinoceros": [
+        "Impel Down Arc"
+    ],
+    "Minozebra": [
+        "Impel Down Arc"
+    ],
+    "Muchana": [
+        "Impel Down Arc"
+    ],
+    "Pankuta Dakeyan": [
+        "Impel Down Arc"
+    ],
+    "Sukoshiba Kanishitoru": [
+        "Impel Down Arc"
+    ],
+    "Zotto": [
+        "Impel Down Arc"
+    ],
+    "Brontosaurus": [
+        "Little Garden Arc"
+    ],
+    "Gem": [
+        "Little Garden Arc",
+        "Whisky Peak Arc"
+    ],
+    "Mr. 13": [
+        "Little Garden Arc",
+        "Whisky Peak Arc",
+        "Reverse Mountain Arc"
+    ],
+    "Mr. 11": [
+        "Little Garden Arc",
+        "Arabasta Arc"
+    ],
+    "Chess": [
+        "Drum Island Arc",
+        "Whole Cake Island Arc"
+    ],
+    "Chessmarimo": [
+        "Drum Island Arc"
+    ],
+    "Kuromarimo": [
+        "Drum Island Arc"
+    ],
+    "Robson": [
+        "Drum Island Arc"
+    ],
+    "Hiriluk": [
+        "Drum Island Arc"
+    ],
+    "Negikuma Maria": [
+        "Drum Island Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Tamachibi": [
+        "Drum Island Arc"
+    ],
+    "Cocoa": [
+        "Drum Island Arc",
+        "Return to Sabaody Arc"
+    ],
+    "Akumai": [
+        "Arabasta Arc"
+    ],
+    "Babe": [
+        "Arabasta Arc"
+    ],
+    "Lassoo": [
+        "Arabasta Arc"
+    ],
+    "Banchi": [
+        "Arabasta Arc",
+        "Whisky Peak Arc"
+    ],
+    "Bourbon Jr.": [
+        "Arabasta Arc"
+    ],
+    "Brahm": [
+        "Arabasta Arc"
+    ],
+    "Cowboy": [
+        "Arabasta Arc"
+    ],
+    "Kebi": [
+        "Arabasta Arc"
+    ],
+    "Farafra": [
+        "Arabasta Arc"
+    ],
+    "Hasami": [
+        "Arabasta Arc"
+    ],
+    "Hikoichi": [
+        "Arabasta Arc"
+    ],
+    "Hyota": [
+        "Arabasta Arc"
+    ],
+    "Ivan X": [
+        "Arabasta Arc"
+    ],
+    "Kentauros": [
+        "Arabasta Arc"
+    ],
+    "Maidy": [
+        "Arabasta Arc"
+    ],
+    "Terracotta": [
+        "Arabasta Arc"
+    ],
+    "Miss Father's Day": [
+        "Arabasta Arc"
+    ],
+    "Miss Thursday": [
+        "Arabasta Arc"
+    ],
+    "Mr. Mellow": [
+        "Arabasta Arc"
+    ],
+    "Mr. Love": [
+        "Arabasta Arc"
+    ],
+    "Okame": [
+        "Arabasta Arc"
+    ],
+    "Potsun": [
+        "Arabasta Arc"
+    ],
+    "Puppu": [
+        "Arabasta Arc"
+    ],
+    "Shine": [
+        "Arabasta Arc",
+        "Amazon Lily Arc",
+        "Whisky Peak Arc"
+    ],
+    "Stomp": [
+        "Arabasta Arc"
+    ],
+    "Ultraking": [
+        "Arabasta Arc"
+    ],
+    "Yoshimoto": [
+        "Arabasta Arc"
+    ],
+    "Zala": [
+        "Arabasta Arc"
+    ],
+    "Flare": [
+        "Arabasta Arc"
+    ],
+    "Glove": [
+        "Arabasta Arc",
+        "Enies Lobby Arc",
+        "Sabaody Archipelago Arc"
+    ],
+    "Camel": [
+        "Arabasta Arc",
+        "Punk Hazard Arc"
+    ],
+    "Aladine": [
+        "Whole Cake Island Arc"
+    ],
+    "Vinsmoke Yonji": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Cracker": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Opera": [
+        "Whole Cake Island Arc"
+    ],
+    "Buche": [
+        "Whole Cake Island Arc"
+    ],
+    "Carmel": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Brûlée": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Custard": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Oven": [
+        "Whole Cake Island Arc"
+    ],
+    "Gotti": [
+        "Whole Cake Island Arc"
+    ],
+    "Jigra": [
+        "Whole Cake Island Arc"
+    ],
+    "Capone Pez": [
+        "Whole Cake Island Arc"
+    ],
+    "Carne": [
+        "Whole Cake Island Arc",
+        "Baratie Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Diesel": [
+        "Whole Cake Island Arc"
+    ],
+    "Kingbaum": [
+        "Whole Cake Island Arc"
+    ],
+    "Randolph": [
+        "Whole Cake Island Arc"
+    ],
+    "Vinsmoke Reiju": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Akimeg": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Allmeg": [
+        "Whole Cake Island Arc"
+    ],
+    "Streusen": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Anana": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Angel": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Anglais": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Basans": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Bavarois": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Cabaletta": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Cadenza": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Chiboust": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Chiffon": [
+        "Whole Cake Island Arc"
+    ],
+    "Rabiyan": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Cinnamon": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Citron": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Compo": [
+        "Whole Cake Island Arc"
+    ],
+    "Compo": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Counter": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Dacquoise": [
+        "Whole Cake Island Arc"
+    ],
+    "Vinsmoke Niji": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Dolce": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Dragée": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Fuyumeg": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Hachée": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Harumeg": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte High-Fat": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Joconde": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Joscarpone": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Kanten": [
+        "Whole Cake Island Arc"
+    ],
+    "Vinsmoke Ichiji": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mascarpone": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Laurin": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Maple": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Marble": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Marnier": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mash": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Melise": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mondée": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Nusstorte": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Montb": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Mozart": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Myukuru": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Newgo": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Newichi": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Newji": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Newsan": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Newshi": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Noisette": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Normande": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Nougat": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Nutmeg": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Panna": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Praline": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Prim": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Saint-Marc": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Snack": [
+        "Whole Cake Island Arc"
+    ],
+    "Charlotte Yuen": [
+        "Whole Cake Island Arc"
+    ],
+    "Choco Police": [
+        "Whole Cake Island Arc"
+    ],
+    "Cosette": [
+        "Whole Cake Island Arc"
+    ],
+    "Drug Peclo": [
+        "Whole Cake Island Arc"
+    ],
+    "Lu Feld": [
+        "Whole Cake Island Arc"
+    ],
+    "Eggplant Soldier": [
+        "Whole Cake Island Arc"
+    ],
+    "Gally": [
+        "Whole Cake Island Arc",
+        "Loguetown Arc",
+        "Enies Lobby Arc"
+    ],
+    "Giberson": [
+        "Whole Cake Island Arc"
+    ],
+    "Lady Tree": [
+        "Whole Cake Island Arc"
+    ],
+    "Noble Croc": [
+        "Whole Cake Island Arc"
+    ],
+    "Nyasha": [
+        "Whole Cake Island Arc"
+    ],
+    "Zepo": [
+        "Whole Cake Island Arc"
+    ],
+    "Umit": [
+        "Whole Cake Island Arc"
+    ],
+    "Sora": [
+        "Whole Cake Island Arc"
+    ],
+    "Albion": [
+        "Return to Sabaody Arc"
+    ],
+    "Beak Remark": [
+        "Return to Sabaody Arc"
+    ],
+    "Chocolat": [
+        "Return to Sabaody Arc"
+    ],
+    "Raccoon": [
+        "Return to Sabaody Arc"
+    ],
+    "Mounblutain": [
+        "Return to Sabaody Arc"
+    ],
+    "Nora Gitsune": [
+        "Return to Sabaody Arc"
+    ],
+    "Tibany": [
+        "Return to Sabaody Arc"
+    ],
+    "Monet": [
+        "Punk Hazard Arc"
+    ],
+    "Vergo": [
+        "Punk Hazard Arc"
+    ],
+    "Bakezo": [
+        "Punk Hazard Arc"
+    ],
+    "Smiley": [
+        "Punk Hazard Arc"
+    ],
+    "Smooge": [
+        "Punk Hazard Arc"
+    ],
+    "Chappe": [
+        "Punk Hazard Arc"
+    ],
+    "Dragon Number Thirteen": [
+        "Punk Hazard Arc"
+    ],
+    "Dragon Number Twenty-One": [
+        "Punk Hazard Arc"
+    ],
+    "Fen Bock": [
+        "Punk Hazard Arc"
+    ],
+    "Gal": [
+        "Punk Hazard Arc"
+    ],
+    "Jero": [
+        "Punk Hazard Arc"
+    ],
+    "Kirintauros": [
+        "Punk Hazard Arc"
+    ],
+    "Hyoutauros": [
+        "Punk Hazard Arc"
+    ],
+    "Rock": [
+        "Punk Hazard Arc"
+    ],
+    "Chicken": [
+        "Romance Dawn Arc"
+    ],
+    "Gyoru": [
+        "Romance Dawn Arc"
+    ],
+    "Rika": [
+        "Romance Dawn Arc"
+    ],
+    "Soro": [
+        "Romance Dawn Arc"
+    ],
+    "Heppoko": [
+        "Romance Dawn Arc"
+    ],
+    "Peppoko": [
+        "Romance Dawn Arc",
+        "Loguetown Arc"
+    ],
+    "Poppoko": [
+        "Romance Dawn Arc",
+        "Loguetown Arc"
+    ],
+    "Higuma": [
+        "Romance Dawn Arc"
+    ],
+    "Lord of the Coast": [
+        "Romance Dawn Arc"
+    ],
+    "Ripper": [
+        "Romance Dawn Arc"
+    ],
+    "Ririka": [
+        "Romance Dawn Arc"
+    ],
+    "Rokkaku": [
+        "Romance Dawn Arc"
+    ],
+    "Ukkari": [
+        "Romance Dawn Arc"
+    ],
+    "Billy": [
+        "Loguetown Arc"
+    ],
+    "Nezumi": [
+        "Loguetown Arc",
+        "Arlong Park Arc"
+    ],
+    "Hanger": [
+        "Loguetown Arc"
+    ],
+    "Ipponmatsu": [
+        "Loguetown Arc"
+    ],
+    "Ipponume": [
+        "Loguetown Arc"
+    ],
+    "Koze": [
+        "Loguetown Arc"
+    ],
+    "Kuro": [
+        "Loguetown Arc",
+        "Syrup Village Arc"
+    ],
+    "Packy": [
+        "Loguetown Arc"
+    ],
+    "Sam": [
+        "Loguetown Arc",
+        "Arlong Park Arc"
+    ],
+    "Sapi": [
+        "Loguetown Arc"
+    ],
+    "Yu": [
+        "Loguetown Arc"
+    ],
+    "Sarquiss": [
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Terry": [
+        "Jaya Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Eddy": [
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Hewitt": [
+        "Jaya Arc"
+    ],
+    "Jobo": [
+        "Jaya Arc"
+    ],
+    "Mani": [
+        "Jaya Arc"
+    ],
+    "Rivers": [
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Muret": [
+        "Jaya Arc"
+    ],
+    "Okome": [
+        "Jaya Arc"
+    ],
+    "Ross": [
+        "Jaya Arc",
+        "Long Ring Long Land Arc"
+    ],
+    "Spector": [
+        "Jaya Arc"
+    ],
+    "Tate": [
+        "Jaya Arc"
+    ],
+    "Bacura": [
+        "Amazon Lily Arc"
+    ],
+    "Enishida": [
+        "Amazon Lily Arc"
+    ],
+    "Shion": [
+        "Amazon Lily Arc"
+    ],
+    "Nerine": [
+        "Amazon Lily Arc"
+    ],
+    "Pansy": [
+        "Amazon Lily Arc"
+    ],
+    "Poppy": [
+        "Amazon Lily Arc"
+    ],
+    "Stalker": [
+        "Amazon Lily Arc"
+    ],
+    "And": [
+        "Enies Lobby Arc"
+    ],
+    "Zambai": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Bas": [
+        "Enies Lobby Arc"
+    ],
+    "Chimney": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Gonbe": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Dago": [
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Footbianco": [
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Gatherine": [
+        "Enies Lobby Arc"
+    ],
+    "Funkfreed": [
+        "Enies Lobby Arc",
+        "Water 7 Arc"
+    ],
+    "Gomorrah": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kiwi": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Mozu": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Sodom": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kerville": [
+        "Enies Lobby Arc"
+    ],
+    "Kiev": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Kop": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Ottoland": [
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Schollzo": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Sharinguru": [
+        "Enies Lobby Arc"
+    ],
+    "Spandine": [
+        "Enies Lobby Arc"
+    ],
+    "Suzume": [
+        "Enies Lobby Arc"
+    ],
+    "Tamagon": [
+        "Enies Lobby Arc",
+        "Post Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Hoichael": [
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Michael": [
+        "Enies Lobby Arc",
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Very Good": [
+        "Enies Lobby Arc"
+    ],
+    "Antonio": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Disco": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Macro": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Peterman": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Judy": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Marie": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Saru": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Motobaro": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Wanze": [
+        "Sabaody Archipelago Arc",
+        "Water 7 Arc"
+    ],
+    "House": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Lacuba": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Marin": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Minoruba": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Kairiken": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Pascia": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Stansen": [
+        "Sabaody Archipelago Arc",
+        "Elbaph Arc"
+    ],
+    "Sicily": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Tansui": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Pekkori": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Kitton": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Taroimo": [
+        "Sabaody Archipelago Arc"
+    ],
+    "Chew": [
+        "Arlong Park Arc"
+    ],
+    "Johnny": [
+        "Arlong Park Arc",
+        "Baratie Arc"
+    ],
+    "Kuroobi": [
+        "Arlong Park Arc"
+    ],
+    "Pudding Pudding": [
+        "Arlong Park Arc"
+    ],
+    "Yosaku": [
+        "Arlong Park Arc",
+        "Baratie Arc"
+    ],
+    "Bell-mère": [
+        "Arlong Park Arc"
+    ],
+    "Kaneshiro": [
+        "Arlong Park Arc"
+    ],
+    "Shioyaki": [
+        "Arlong Park Arc"
+    ],
+    "Pisaro": [
+        "Arlong Park Arc"
+    ],
+    "Teru": [
+        "Arlong Park Arc"
+    ],
+    "Loki": [
+        "Elbaph Arc"
+    ],
+    "Gerd": [
+        "Elbaph Arc"
+    ],
+    "Goldberg": [
+        "Elbaph Arc"
+    ],
+    "Jarul": [
+        "Elbaph Arc"
+    ],
+    "Muginn": [
+        "Elbaph Arc"
+    ],
+    "Glutbunny": [
+        "Elbaph Arc"
+    ],
+    "Hilmungardr": [
+        "Elbaph Arc"
+    ],
+    "Iscat": [
+        "Elbaph Arc"
+    ],
+    "Needle God": [
+        "Elbaph Arc"
+    ],
+    "Piper": [
+        "Elbaph Arc"
+    ],
+    "Mr. Beans": [
+        "Whisky Peak Arc"
+    ],
+    "Mr. Shimizu": [
+        "Whisky Peak Arc"
+    ],
+    "Batchee": [
+        "Baratie Arc"
+    ],
+    "Moodie": [
+        "Baratie Arc"
+    ],
+    "Hustle": [
+        "Baratie Arc"
+    ],
+    "Ideaman": [
+        "Baratie Arc"
+    ],
+    "Kagikko": [
+        "Baratie Arc"
+    ],
+    "Motzel": [
+        "Baratie Arc"
+    ],
+    "Roxanne": [
+        "Baratie Arc"
+    ],
+    "Big Pan": [
+        "Long Ring Long Land Arc"
+    ],
+    "Pickles": [
+        "Long Ring Long Land Arc"
+    ],
+    "Capote": [
+        "Long Ring Long Land Arc"
+    ],
+    "Monda": [
+        "Long Ring Long Land Arc"
+    ],
+    "Chuchun": [
+        "Long Ring Long Land Arc"
+    ],
+    "Itomimizu": [
+        "Long Ring Long Land Arc"
+    ],
+    "George Mach": [
+        "Long Ring Long Land Arc"
+    ],
+    "Mountain Ricky": [
+        "Long Ring Long Land Arc"
+    ],
+    "Gina": [
+        "Long Ring Long Land Arc"
+    ],
+    "Donovan": [
+        "Long Ring Long Land Arc"
+    ],
+    "Sonieh": [
+        "Long Ring Long Land Arc"
+    ],
+    "Kibagaeru": [
+        "Long Ring Long Land Arc"
+    ],
+    "Master of the Waters": [
+        "Long Ring Long Land Arc"
+    ],
+    "Bimine": [
+        "Water 7 Arc"
+    ],
+    "Bushon": [
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Stevie": [
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Corgi": [
+        "Water 7 Arc"
+    ],
+    "Happa Yamao": [
+        "Water 7 Arc"
+    ],
+    "Mikazuki": [
+        "Water 7 Arc",
+        "Post-Enies Lobby Arc"
+    ],
+    "Ishigo Shitemanna": [
+        "Water 7 Arc"
+    ],
+    "Jerry": [
+        "Water 7 Arc"
+    ],
+    "Kakukaku": [
+        "Water 7 Arc"
+    ],
+    "Kyukyu": [
+        "Water 7 Arc"
+    ],
+    "Mishoin Cashible": [
+        "Water 7 Arc"
+    ],
+    "Nero": [
+        "Water 7 Arc"
+    ],
+    "Hocker": [
+        "Orange Town Arc"
+    ],
+    "Pinky": [
+        "Orange Town Arc"
+    ],
+    "Poro": [
+        "Orange Town Arc"
+    ],
+    "Rowing": [
+        "Orange Town Arc"
+    ],
+    "Buchi": [
+        "Syrup Village Arc"
+    ],
+    "Sham": [
+        "Syrup Village Arc"
+    ],
+    "Kirinkodanuki": [
+        "Syrup Village Arc"
+    ],
+    "Lionbuta": [
+        "Syrup Village Arc"
+    ],
+    "Mornin": [
+        "Syrup Village Arc"
+    ],
+    "Bogard": [
+        "Post-Enies Lobby Arc"
+    ],
+    "Marumieta": [
+        "Post-Enies Lobby Arc"
+    ],
+    "Yamenahare": [
+        "Post-Enies Lobby Arc"
+    ]
+}
