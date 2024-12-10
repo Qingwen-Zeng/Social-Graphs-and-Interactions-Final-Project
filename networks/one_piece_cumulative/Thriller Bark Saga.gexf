@@ -1,0 +1,1717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-10">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="word_count" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Alvida" label="Alvida">
+        <attvalues>
+          <attvalue for="0" value="3389" />
+        </attvalues>
+      </node>
+      <node id="Arlong" label="Arlong">
+        <attvalues>
+          <attvalue for="0" value="7242" />
+        </attvalues>
+      </node>
+      <node id="Bell-mère" label="Bell-mère">
+        <attvalues>
+          <attvalue for="0" value="2189" />
+        </attvalues>
+      </node>
+      <node id="Benn Beckman" label="Benn Beckman">
+        <attvalues>
+          <attvalue for="0" value="2379" />
+        </attvalues>
+      </node>
+      <node id="Boodle" label="Boodle">
+        <attvalues>
+          <attvalue for="0" value="864" />
+        </attvalues>
+      </node>
+      <node id="Brannew" label="Brannew">
+        <attvalues>
+          <attvalue for="0" value="1411" />
+        </attvalues>
+      </node>
+      <node id="Buchi" label="Buchi">
+        <attvalues>
+          <attvalue for="0" value="1364" />
+        </attvalues>
+      </node>
+      <node id="Buggy" label="Buggy">
+        <attvalues>
+          <attvalue for="0" value="9367" />
+        </attvalues>
+      </node>
+      <node id="Cabaji" label="Cabaji">
+        <attvalues>
+          <attvalue for="0" value="2290" />
+        </attvalues>
+      </node>
+      <node id="Carne" label="Carne">
+        <attvalues>
+          <attvalue for="0" value="1256" />
+        </attvalues>
+      </node>
+      <node id="Chew" label="Chew">
+        <attvalues>
+          <attvalue for="0" value="1357" />
+        </attvalues>
+      </node>
+      <node id="Chouchou" label="Chouchou">
+        <attvalues>
+          <attvalue for="0" value="800" />
+        </attvalues>
+      </node>
+      <node id="Dracule Mihawk" label="Dracule Mihawk">
+        <attvalues>
+          <attvalue for="0" value="8046" />
+        </attvalues>
+      </node>
+      <node id="Fullbody" label="Fullbody">
+        <attvalues>
+          <attvalue for="0" value="3368" />
+        </attvalues>
+      </node>
+      <node id="Gaimon" label="Gaimon">
+        <attvalues>
+          <attvalue for="0" value="1430" />
+        </attvalues>
+      </node>
+      <node id="Genzo" label="Genzo">
+        <attvalues>
+          <attvalue for="0" value="1774" />
+        </attvalues>
+      </node>
+      <node id="Gin" label="Gin">
+        <attvalues>
+          <attvalue for="0" value="2215" />
+        </attvalues>
+      </node>
+      <node id="Going Merry" label="Going Merry">
+        <attvalues>
+          <attvalue for="0" value="7255" />
+        </attvalues>
+      </node>
+      <node id="Gol D. Roger" label="Gol D. Roger">
+        <attvalues>
+          <attvalue for="0" value="7368" />
+        </attvalues>
+      </node>
+      <node id="Hatchan" label="Hatchan">
+        <attvalues>
+          <attvalue for="0" value="6913" />
+        </attvalues>
+      </node>
+      <node id="Helmeppo" label="Helmeppo">
+        <attvalues>
+          <attvalue for="0" value="4422" />
+        </attvalues>
+      </node>
+      <node id="Higuma" label="Higuma">
+        <attvalues>
+          <attvalue for="0" value="872" />
+        </attvalues>
+      </node>
+      <node id="Jango" label="Jango">
+        <attvalues>
+          <attvalue for="0" value="2594" />
+        </attvalues>
+      </node>
+      <node id="Jinbe" label="Jinbe">
+        <attvalues>
+          <attvalue for="0" value="1127" />
+        </attvalues>
+      </node>
+      <node id="John Giant" label="John Giant">
+        <attvalues>
+          <attvalue for="0" value="679" />
+        </attvalues>
+      </node>
+      <node id="Johnny" label="Johnny">
+        <attvalues>
+          <attvalue for="0" value="2300" />
+        </attvalues>
+      </node>
+      <node id="Kaya" label="Kaya">
+        <attvalues>
+          <attvalue for="0" value="2139" />
+        </attvalues>
+      </node>
+      <node id="Killer" label="Killer">
+        <attvalues>
+          <attvalue for="0" value="5612" />
+        </attvalues>
+      </node>
+      <node id="King" label="King">
+        <attvalues>
+          <attvalue for="0" value="8637" />
+        </attvalues>
+      </node>
+      <node id="Koby" label="Koby">
+        <attvalues>
+          <attvalue for="0" value="7486" />
+        </attvalues>
+      </node>
+      <node id="Krieg" label="Krieg">
+        <attvalues>
+          <attvalue for="0" value="5612" />
+        </attvalues>
+      </node>
+      <node id="Kuro" label="Kuro">
+        <attvalues>
+          <attvalue for="0" value="5928" />
+        </attvalues>
+      </node>
+      <node id="Kuroobi" label="Kuroobi">
+        <attvalues>
+          <attvalue for="0" value="1187" />
+        </attvalues>
+      </node>
+      <node id="Lord of the Coast" label="Lord of the Coast">
+        <attvalues>
+          <attvalue for="0" value="559" />
+        </attvalues>
+      </node>
+      <node id="Lucky Roux" label="Lucky Roux">
+        <attvalues>
+          <attvalue for="0" value="1264" />
+        </attvalues>
+      </node>
+      <node id="Makino" label="Makino">
+        <attvalues>
+          <attvalue for="0" value="1397" />
+        </attvalues>
+      </node>
+      <node id="Merry" label="Merry">
+        <attvalues>
+          <attvalue for="0" value="1640" />
+        </attvalues>
+      </node>
+      <node id="Mohji" label="Mohji">
+        <attvalues>
+          <attvalue for="0" value="1978" />
+        </attvalues>
+      </node>
+      <node id="Momoo" label="Momoo">
+        <attvalues>
+          <attvalue for="0" value="996" />
+        </attvalues>
+      </node>
+      <node id="Monkey D. Dragon" label="Monkey D. Dragon">
+        <attvalues>
+          <attvalue for="0" value="6841" />
+        </attvalues>
+      </node>
+      <node id="Monkey D. Luffy" label="Monkey D. Luffy">
+        <attvalues>
+          <attvalue for="0" value="4604" />
+        </attvalues>
+      </node>
+      <node id="Morgan" label="Morgan">
+        <attvalues>
+          <attvalue for="0" value="2481" />
+        </attvalues>
+      </node>
+      <node id="Nako" label="Nako">
+        <attvalues>
+          <attvalue for="0" value="1411" />
+        </attvalues>
+      </node>
+      <node id="Nami" label="Nami">
+        <attvalues>
+          <attvalue for="0" value="5109" />
+        </attvalues>
+      </node>
+      <node id="Nezumi" label="Nezumi">
+        <attvalues>
+          <attvalue for="0" value="857" />
+        </attvalues>
+      </node>
+      <node id="Ninjin" label="Ninjin">
+        <attvalues>
+          <attvalue for="0" value="608" />
+        </attvalues>
+      </node>
+      <node id="Nojiko" label="Nojiko">
+        <attvalues>
+          <attvalue for="0" value="1676" />
+        </attvalues>
+      </node>
+      <node id="Palms" label="Palms">
+        <attvalues>
+          <attvalue for="0" value="571" />
+        </attvalues>
+      </node>
+      <node id="Patty" label="Patty">
+        <attvalues>
+          <attvalue for="0" value="2130" />
+        </attvalues>
+      </node>
+      <node id="Pearl" label="Pearl">
+        <attvalues>
+          <attvalue for="0" value="1392" />
+        </attvalues>
+      </node>
+      <node id="Piiman" label="Piiman">
+        <attvalues>
+          <attvalue for="0" value="600" />
+        </attvalues>
+      </node>
+      <node id="Pudding Pudding" label="Pudding Pudding">
+        <attvalues>
+          <attvalue for="0" value="551" />
+        </attvalues>
+      </node>
+      <node id="Richie" label="Richie">
+        <attvalues>
+          <attvalue for="0" value="1373" />
+        </attvalues>
+      </node>
+      <node id="Rika" label="Rika">
+        <attvalues>
+          <attvalue for="0" value="770" />
+        </attvalues>
+      </node>
+      <node id="Ripper" label="Ripper">
+        <attvalues>
+          <attvalue for="0" value="676" />
+        </attvalues>
+      </node>
+      <node id="Road" label="Road">
+        <attvalues>
+          <attvalue for="0" value="1026" />
+        </attvalues>
+      </node>
+      <node id="Roronoa Zoro" label="Roronoa Zoro">
+        <attvalues>
+          <attvalue for="0" value="2742" />
+        </attvalues>
+      </node>
+      <node id="Sabo" label="Sabo">
+        <attvalues>
+          <attvalue for="0" value="12700" />
+        </attvalues>
+      </node>
+      <node id="Sanji" label="Sanji">
+        <attvalues>
+          <attvalue for="0" value="2121" />
+        </attvalues>
+      </node>
+      <node id="Sham" label="Sham">
+        <attvalues>
+          <attvalue for="0" value="1398" />
+        </attvalues>
+      </node>
+      <node id="Shanks" label="Shanks">
+        <attvalues>
+          <attvalue for="0" value="9319" />
+        </attvalues>
+      </node>
+      <node id="Smoker" label="Smoker">
+        <attvalues>
+          <attvalue for="0" value="6715" />
+        </attvalues>
+      </node>
+      <node id="Speed" label="Speed">
+        <attvalues>
+          <attvalue for="0" value="1965" />
+        </attvalues>
+      </node>
+      <node id="Stainless" label="Stainless">
+        <attvalues>
+          <attvalue for="0" value="675" />
+        </attvalues>
+      </node>
+      <node id="Stronger" label="Stronger">
+        <attvalues>
+          <attvalue for="0" value="1273" />
+        </attvalues>
+      </node>
+      <node id="Tamanegi" label="Tamanegi">
+        <attvalues>
+          <attvalue for="0" value="624" />
+        </attvalues>
+      </node>
+      <node id="Tashigi" label="Tashigi">
+        <attvalues>
+          <attvalue for="0" value="7468" />
+        </attvalues>
+      </node>
+      <node id="Usopp" label="Usopp">
+        <attvalues>
+          <attvalue for="0" value="1209" />
+        </attvalues>
+      </node>
+      <node id="Woop Slap" label="Woop Slap">
+        <attvalues>
+          <attvalue for="0" value="1274" />
+        </attvalues>
+      </node>
+      <node id="Yasopp" label="Yasopp">
+        <attvalues>
+          <attvalue for="0" value="2184" />
+        </attvalues>
+      </node>
+      <node id="Yosaku" label="Yosaku">
+        <attvalues>
+          <attvalue for="0" value="2016" />
+        </attvalues>
+      </node>
+      <node id="Zeff" label="Zeff">
+        <attvalues>
+          <attvalue for="0" value="3941" />
+        </attvalues>
+      </node>
+      <node id="Babe" label="Babe">
+        <attvalues>
+          <attvalue for="0" value="1629" />
+        </attvalues>
+      </node>
+      <node id="Bentham" label="Bentham">
+        <attvalues>
+          <attvalue for="0" value="7318" />
+        </attvalues>
+      </node>
+      <node id="Brogy" label="Brogy">
+        <attvalues>
+          <attvalue for="0" value="2980" />
+        </attvalues>
+      </node>
+      <node id="Chaka" label="Chaka">
+        <attvalues>
+          <attvalue for="0" value="1013" />
+        </attvalues>
+      </node>
+      <node id="Chess" label="Chess">
+        <attvalues>
+          <attvalue for="0" value="932" />
+        </attvalues>
+      </node>
+      <node id="Chessmarimo" label="Chessmarimo">
+        <attvalues>
+          <attvalue for="0" value="739" />
+        </attvalues>
+      </node>
+      <node id="Cocoa" label="Cocoa">
+        <attvalues>
+          <attvalue for="0" value="586" />
+        </attvalues>
+      </node>
+      <node id="Crocodile" label="Crocodile">
+        <attvalues>
+          <attvalue for="0" value="7815" />
+        </attvalues>
+      </node>
+      <node id="Crocus" label="Crocus">
+        <attvalues>
+          <attvalue for="0" value="2219" />
+        </attvalues>
+      </node>
+      <node id="Dalton" label="Dalton">
+        <attvalues>
+          <attvalue for="0" value="2584" />
+        </attvalues>
+      </node>
+      <node id="Daz Bonez" label="Daz Bonez">
+        <attvalues>
+          <attvalue for="0" value="3536" />
+        </attvalues>
+      </node>
+      <node id="Den" label="Den">
+        <attvalues>
+          <attvalue for="0" value="620" />
+        </attvalues>
+      </node>
+      <node id="Dorry" label="Dorry">
+        <attvalues>
+          <attvalue for="0" value="2990" />
+        </attvalues>
+      </node>
+      <node id="Drophy" label="Drophy">
+        <attvalues>
+          <attvalue for="0" value="958" />
+        </attvalues>
+      </node>
+      <node id="Flare" label="Flare">
+        <attvalues>
+          <attvalue for="0" value="1031" />
+        </attvalues>
+      </node>
+      <node id="Galdino" label="Galdino">
+        <attvalues>
+          <attvalue for="0" value="7512" />
+        </attvalues>
+      </node>
+      <node id="Gem" label="Gem">
+        <attvalues>
+          <attvalue for="0" value="1435" />
+        </attvalues>
+      </node>
+      <node id="Heat" label="Heat">
+        <attvalues>
+          <attvalue for="0" value="968" />
+        </attvalues>
+      </node>
+      <node id="Hina" label="Hina">
+        <attvalues>
+          <attvalue for="0" value="2156" />
+        </attvalues>
+      </node>
+      <node id="Hiriluk" label="Hiriluk">
+        <attvalues>
+          <attvalue for="0" value="1999" />
+        </attvalues>
+      </node>
+      <node id="Igaram" label="Igaram">
+        <attvalues>
+          <attvalue for="0" value="2929" />
+        </attvalues>
+      </node>
+      <node id="Kappa" label="Kappa">
+        <attvalues>
+          <attvalue for="0" value="434" />
+        </attvalues>
+      </node>
+      <node id="Karoo" label="Karoo">
+        <attvalues>
+          <attvalue for="0" value="3263" />
+        </attvalues>
+      </node>
+      <node id="Koala" label="Koala">
+        <attvalues>
+          <attvalue for="0" value="3486" />
+        </attvalues>
+      </node>
+      <node id="Koza" label="Koza">
+        <attvalues>
+          <attvalue for="0" value="2310" />
+        </attvalues>
+      </node>
+      <node id="Kureha" label="Kureha">
+        <attvalues>
+          <attvalue for="0" value="3282" />
+        </attvalues>
+      </node>
+      <node id="Kuromarimo" label="Kuromarimo">
+        <attvalues>
+          <attvalue for="0" value="1125" />
+        </attvalues>
+      </node>
+      <node id="Laboon" label="Laboon">
+        <attvalues>
+          <attvalue for="0" value="1627" />
+        </attvalues>
+      </node>
+      <node id="Marianne" label="Marianne">
+        <attvalues>
+          <attvalue for="0" value="1155" />
+        </attvalues>
+      </node>
+      <node id="Matsuge" label="Matsuge">
+        <attvalues>
+          <attvalue for="0" value="607" />
+        </attvalues>
+      </node>
+      <node id="Mikita" label="Mikita">
+        <attvalues>
+          <attvalue for="0" value="1197" />
+        </attvalues>
+      </node>
+      <node id="Miss Monday" label="Miss Monday">
+        <attvalues>
+          <attvalue for="0" value="1080" />
+        </attvalues>
+      </node>
+      <node id="Mr. 11" label="Mr. 11">
+        <attvalues>
+          <attvalue for="0" value="369" />
+        </attvalues>
+      </node>
+      <node id="Mr. 9" label="Mr. 9">
+        <attvalues>
+          <attvalue for="0" value="1534" />
+        </attvalues>
+      </node>
+      <node id="Nefertari Cobra" label="Nefertari Cobra">
+        <attvalues>
+          <attvalue for="0" value="2787" />
+        </attvalues>
+      </node>
+      <node id="Nefertari Vivi" label="Nefertari Vivi">
+        <attvalues>
+          <attvalue for="0" value="7103" />
+        </attvalues>
+      </node>
+      <node id="Nico Robin" label="Nico Robin">
+        <attvalues>
+          <attvalue for="0" value="2392" />
+        </attvalues>
+      </node>
+      <node id="Pell" label="Pell">
+        <attvalues>
+          <attvalue for="0" value="1626" />
+        </attvalues>
+      </node>
+      <node id="Portgas D. Ace" label="Portgas D. Ace">
+        <attvalues>
+          <attvalue for="0" value="10018" />
+        </attvalues>
+      </node>
+      <node id="Queen" label="Queen">
+        <attvalues>
+          <attvalue for="0" value="10945" />
+        </attvalues>
+      </node>
+      <node id="Rush" label="Rush">
+        <attvalues>
+          <attvalue for="0" value="409" />
+        </attvalues>
+      </node>
+      <node id="Strawberry" label="Strawberry">
+        <attvalues>
+          <attvalue for="0" value="961" />
+        </attvalues>
+      </node>
+      <node id="Tony Tony Chopper" label="Tony Tony Chopper">
+        <attvalues>
+          <attvalue for="0" value="1313" />
+        </attvalues>
+      </node>
+      <node id="Toto" label="Toto">
+        <attvalues>
+          <attvalue for="0" value="2445" />
+        </attvalues>
+      </node>
+      <node id="Wapol" label="Wapol">
+        <attvalues>
+          <attvalue for="0" value="7445" />
+        </attvalues>
+      </node>
+      <node id="Wire" label="Wire">
+        <attvalues>
+          <attvalue for="0" value="753" />
+        </attvalues>
+      </node>
+      <node id="Zala" label="Zala">
+        <attvalues>
+          <attvalue for="0" value="2957" />
+        </attvalues>
+      </node>
+      <node id="Aisa" label="Aisa">
+        <attvalues>
+          <attvalue for="0" value="1701" />
+        </attvalues>
+      </node>
+      <node id="Bartholomew Kuma" label="Bartholomew Kuma">
+        <attvalues>
+          <attvalue for="0" value="10638" />
+        </attvalues>
+      </node>
+      <node id="Bellamy" label="Bellamy">
+        <attvalues>
+          <attvalue for="0" value="6701" />
+        </attvalues>
+      </node>
+      <node id="Braham" label="Braham">
+        <attvalues>
+          <attvalue for="0" value="636" />
+        </attvalues>
+      </node>
+      <node id="Conis" label="Conis">
+        <attvalues>
+          <attvalue for="0" value="3182" />
+        </attvalues>
+      </node>
+      <node id="Doc Q" label="Doc Q">
+        <attvalues>
+          <attvalue for="0" value="2415" />
+        </attvalues>
+      </node>
+      <node id="Donquixote Doflamingo" label="Donquixote Doflamingo">
+        <attvalues>
+          <attvalue for="0" value="1659" />
+        </attvalues>
+      </node>
+      <node id="Edward Newgate" label="Edward Newgate">
+        <attvalues>
+          <attvalue for="0" value="8416" />
+        </attvalues>
+      </node>
+      <node id="Enel" label="Enel">
+        <attvalues>
+          <attvalue for="0" value="6861" />
+        </attvalues>
+      </node>
+      <node id="Ethanbaron V. Nusjuro" label="Ethanbaron V. Nusjuro">
+        <attvalues>
+          <attvalue for="0" value="4202" />
+        </attvalues>
+      </node>
+      <node id="Gan Fall" label="Gan Fall">
+        <attvalues>
+          <attvalue for="0" value="2286" />
+        </attvalues>
+      </node>
+      <node id="Gedatsu" label="Gedatsu">
+        <attvalues>
+          <attvalue for="0" value="1781" />
+        </attvalues>
+      </node>
+      <node id="Goro" label="Goro">
+        <attvalues>
+          <attvalue for="0" value="452" />
+        </attvalues>
+      </node>
+      <node id="Holy" label="Holy">
+        <attvalues>
+          <attvalue for="0" value="1024" />
+        </attvalues>
+      </node>
+      <node id="Jack" label="Jack">
+        <attvalues>
+          <attvalue for="0" value="4564" />
+        </attvalues>
+      </node>
+      <node id="Jaygarcia Saturn" label="Jaygarcia Saturn">
+        <attvalues>
+          <attvalue for="0" value="9547" />
+        </attvalues>
+      </node>
+      <node id="Jesus Burgess" label="Jesus Burgess">
+        <attvalues>
+          <attvalue for="0" value="4381" />
+        </attvalues>
+      </node>
+      <node id="John" label="John">
+        <attvalues>
+          <attvalue for="0" value="726" />
+        </attvalues>
+      </node>
+      <node id="Jozu" label="Jozu">
+        <attvalues>
+          <attvalue for="0" value="2474" />
+        </attvalues>
+      </node>
+      <node id="Kalgara" label="Kalgara">
+        <attvalues>
+          <attvalue for="0" value="1529" />
+        </attvalues>
+      </node>
+      <node id="Kamakiri" label="Kamakiri">
+        <attvalues>
+          <attvalue for="0" value="802" />
+        </attvalues>
+      </node>
+      <node id="Laffitte" label="Laffitte">
+        <attvalues>
+          <attvalue for="0" value="2644" />
+        </attvalues>
+      </node>
+      <node id="Marco" label="Marco">
+        <attvalues>
+          <attvalue for="0" value="7955" />
+        </attvalues>
+      </node>
+      <node id="Marcus Mars" label="Marcus Mars">
+        <attvalues>
+          <attvalue for="0" value="3855" />
+        </attvalues>
+      </node>
+      <node id="Marshall D. Teach" label="Marshall D. Teach">
+        <attvalues>
+          <attvalue for="0" value="10579" />
+        </attvalues>
+      </node>
+      <node id="Masira" label="Masira">
+        <attvalues>
+          <attvalue for="0" value="833" />
+        </attvalues>
+      </node>
+      <node id="McKinley" label="McKinley">
+        <attvalues>
+          <attvalue for="0" value="880" />
+        </attvalues>
+      </node>
+      <node id="Mont Blanc Cricket" label="Mont Blanc Cricket">
+        <attvalues>
+          <attvalue for="0" value="2657" />
+        </attvalues>
+      </node>
+      <node id="Mont Blanc Noland" label="Mont Blanc Noland">
+        <attvalues>
+          <attvalue for="0" value="2679" />
+        </attvalues>
+      </node>
+      <node id="Nola" label="Nola">
+        <attvalues>
+          <attvalue for="0" value="1773" />
+        </attvalues>
+      </node>
+      <node id="Ohm" label="Ohm">
+        <attvalues>
+          <attvalue for="0" value="1927" />
+        </attvalues>
+      </node>
+      <node id="Pagaya" label="Pagaya">
+        <attvalues>
+          <attvalue for="0" value="812" />
+        </attvalues>
+      </node>
+      <node id="Pierre" label="Pierre">
+        <attvalues>
+          <attvalue for="0" value="425" />
+        </attvalues>
+      </node>
+      <node id="Pound" label="Pound">
+        <attvalues>
+          <attvalue for="0" value="2587" />
+        </attvalues>
+      </node>
+      <node id="Raki" label="Raki">
+        <attvalues>
+          <attvalue for="0" value="1190" />
+        </attvalues>
+      </node>
+      <node id="Rockstar" label="Rockstar">
+        <attvalues>
+          <attvalue for="0" value="653" />
+        </attvalues>
+      </node>
+      <node id="Roshio" label="Roshio">
+        <attvalues>
+          <attvalue for="0" value="646" />
+        </attvalues>
+      </node>
+      <node id="Sarquiss" label="Sarquiss">
+        <attvalues>
+          <attvalue for="0" value="1535" />
+        </attvalues>
+      </node>
+      <node id="Satori" label="Satori">
+        <attvalues>
+          <attvalue for="0" value="1365" />
+        </attvalues>
+      </node>
+      <node id="Sengoku" label="Sengoku">
+        <attvalues>
+          <attvalue for="0" value="8704" />
+        </attvalues>
+      </node>
+      <node id="Seto" label="Seto">
+        <attvalues>
+          <attvalue for="0" value="464" />
+        </attvalues>
+      </node>
+      <node id="Shandia Chief" label="Shandia Chief">
+        <attvalues>
+          <attvalue for="0" value="356" />
+        </attvalues>
+      </node>
+      <node id="Shepherd Ju Peter" label="Shepherd Ju Peter">
+        <attvalues>
+          <attvalue for="0" value="3819" />
+        </attvalues>
+      </node>
+      <node id="Shoujou" label="Shoujou">
+        <attvalues>
+          <attvalue for="0" value="963" />
+        </attvalues>
+      </node>
+      <node id="Shura" label="Shura">
+        <attvalues>
+          <attvalue for="0" value="1102" />
+        </attvalues>
+      </node>
+      <node id="Skull" label="Skull">
+        <attvalues>
+          <attvalue for="0" value="843" />
+        </attvalues>
+      </node>
+      <node id="Topman Warcury" label="Topman Warcury">
+        <attvalues>
+          <attvalue for="0" value="3893" />
+        </attvalues>
+      </node>
+      <node id="Tsuru" label="Tsuru">
+        <attvalues>
+          <attvalue for="0" value="2259" />
+        </attvalues>
+      </node>
+      <node id="Van Augur" label="Van Augur">
+        <attvalues>
+          <attvalue for="0" value="2814" />
+        </attvalues>
+      </node>
+      <node id="Wyper" label="Wyper">
+        <attvalues>
+          <attvalue for="0" value="4149" />
+        </attvalues>
+      </node>
+      <node id="Yama" label="Yama">
+        <attvalues>
+          <attvalue for="0" value="849" />
+        </attvalues>
+      </node>
+      <node id="Zabo" label="Zabo">
+        <attvalues>
+          <attvalue for="0" value="526" />
+        </attvalues>
+      </node>
+      <node id="Big Pan" label="Big Pan">
+        <attvalues>
+          <attvalue for="0" value="1658" />
+        </attvalues>
+      </node>
+      <node id="Blueno" label="Blueno">
+        <attvalues>
+          <attvalue for="0" value="3103" />
+        </attvalues>
+      </node>
+      <node id="Bogard" label="Bogard">
+        <attvalues>
+          <attvalue for="0" value="988" />
+        </attvalues>
+      </node>
+      <node id="Boo" label="Boo">
+        <attvalues>
+          <attvalue for="0" value="1839" />
+        </attvalues>
+      </node>
+      <node id="Chimney" label="Chimney">
+        <attvalues>
+          <attvalue for="0" value="974" />
+        </attvalues>
+      </node>
+      <node id="Doberman" label="Doberman">
+        <attvalues>
+          <attvalue for="0" value="1697" />
+        </attvalues>
+      </node>
+      <node id="Doll" label="Doll">
+        <attvalues>
+          <attvalue for="0" value="1039" />
+        </attvalues>
+      </node>
+      <node id="Duval" label="Duval">
+        <attvalues>
+          <attvalue for="0" value="2714" />
+        </attvalues>
+      </node>
+      <node id="Foxy" label="Foxy">
+        <attvalues>
+          <attvalue for="0" value="6216" />
+        </attvalues>
+      </node>
+      <node id="Franky" label="Franky">
+        <attvalues>
+          <attvalue for="0" value="1804" />
+        </attvalues>
+      </node>
+      <node id="Fukurou" label="Fukurou">
+        <attvalues>
+          <attvalue for="0" value="1766" />
+        </attvalues>
+      </node>
+      <node id="Gomorrah" label="Gomorrah">
+        <attvalues>
+          <attvalue for="0" value="1089" />
+        </attvalues>
+      </node>
+      <node id="Hamburg" label="Hamburg">
+        <attvalues>
+          <attvalue for="0" value="2079" />
+        </attvalues>
+      </node>
+      <node id="Hattori" label="Hattori">
+        <attvalues>
+          <attvalue for="0" value="1193" />
+        </attvalues>
+      </node>
+      <node id="Iceburg" label="Iceburg">
+        <attvalues>
+          <attvalue for="0" value="3985" />
+        </attvalues>
+      </node>
+      <node id="Jabra" label="Jabra">
+        <attvalues>
+          <attvalue for="0" value="4891" />
+        </attvalues>
+      </node>
+      <node id="Kaku" label="Kaku">
+        <attvalues>
+          <attvalue for="0" value="7095" />
+        </attvalues>
+      </node>
+      <node id="Kalifa" label="Kalifa">
+        <attvalues>
+          <attvalue for="0" value="2954" />
+        </attvalues>
+      </node>
+      <node id="Kashii" label="Kashii">
+        <attvalues>
+          <attvalue for="0" value="2158" />
+        </attvalues>
+      </node>
+      <node id="Kokoro" label="Kokoro">
+        <attvalues>
+          <attvalue for="0" value="1869" />
+        </attvalues>
+      </node>
+      <node id="Kumadori" label="Kumadori">
+        <attvalues>
+          <attvalue for="0" value="2767" />
+        </attvalues>
+      </node>
+      <node id="Kuzan" label="Kuzan">
+        <attvalues>
+          <attvalue for="0" value="10886" />
+        </attvalues>
+      </node>
+      <node id="Mikazuki" label="Mikazuki">
+        <attvalues>
+          <attvalue for="0" value="446" />
+        </attvalues>
+      </node>
+      <node id="Momonga" label="Momonga">
+        <attvalues>
+          <attvalue for="0" value="2696" />
+        </attvalues>
+      </node>
+      <node id="Monkey D. Garp" label="Monkey D. Garp">
+        <attvalues>
+          <attvalue for="0" value="13206" />
+        </attvalues>
+      </node>
+      <node id="Oimo" label="Oimo">
+        <attvalues>
+          <attvalue for="0" value="2679" />
+        </attvalues>
+      </node>
+      <node id="Onigumo" label="Onigumo">
+        <attvalues>
+          <attvalue for="0" value="1061" />
+        </attvalues>
+      </node>
+      <node id="Paulie" label="Paulie">
+        <attvalues>
+          <attvalue for="0" value="2438" />
+        </attvalues>
+      </node>
+      <node id="Peepley Lulu" label="Peepley Lulu">
+        <attvalues>
+          <attvalue for="0" value="1186" />
+        </attvalues>
+      </node>
+      <node id="Porche" label="Porche">
+        <attvalues>
+          <attvalue for="0" value="1573" />
+        </attvalues>
+      </node>
+      <node id="Rob Lucci" label="Rob Lucci">
+        <attvalues>
+          <attvalue for="0" value="7791" />
+        </attvalues>
+      </node>
+      <node id="Sai" label="Sai">
+        <attvalues>
+          <attvalue for="0" value="4425" />
+        </attvalues>
+      </node>
+      <node id="Shelly" label="Shelly">
+        <attvalues>
+          <attvalue for="0" value="403" />
+        </attvalues>
+      </node>
+      <node id="Sodom" label="Sodom">
+        <attvalues>
+          <attvalue for="0" value="957" />
+        </attvalues>
+      </node>
+      <node id="Spandam" label="Spandam">
+        <attvalues>
+          <attvalue for="0" value="4762" />
+        </attvalues>
+      </node>
+      <node id="Spandine" label="Spandine">
+        <attvalues>
+          <attvalue for="0" value="1104" />
+        </attvalues>
+      </node>
+      <node id="T Bone" label="T Bone">
+        <attvalues>
+          <attvalue for="0" value="2096" />
+        </attvalues>
+      </node>
+      <node id="Thatch" label="Thatch">
+        <attvalues>
+          <attvalue for="0" value="1469" />
+        </attvalues>
+      </node>
+      <node id="Tilestone" label="Tilestone">
+        <attvalues>
+          <attvalue for="0" value="1448" />
+        </attvalues>
+      </node>
+      <node id="Tom" label="Tom">
+        <attvalues>
+          <attvalue for="0" value="1674" />
+        </attvalues>
+      </node>
+      <node id="Tonjit" label="Tonjit">
+        <attvalues>
+          <attvalue for="0" value="1038" />
+        </attvalues>
+      </node>
+      <node id="Yamakaji" label="Yamakaji">
+        <attvalues>
+          <attvalue for="0" value="964" />
+        </attvalues>
+      </node>
+      <node id="Yokozuna" label="Yokozuna">
+        <attvalues>
+          <attvalue for="0" value="752" />
+        </attvalues>
+      </node>
+      <node id="Zambai" label="Zambai">
+        <attvalues>
+          <attvalue for="0" value="2048" />
+        </attvalues>
+      </node>
+      <node id="Absalom" label="Absalom">
+        <attvalues>
+          <attvalue for="0" value="3021" />
+        </attvalues>
+      </node>
+      <node id="Boa Hancock" label="Boa Hancock">
+        <attvalues>
+          <attvalue for="0" value="11450" />
+        </attvalues>
+      </node>
+      <node id="Brook" label="Brook">
+        <attvalues>
+          <attvalue for="0" value="1133" />
+        </attvalues>
+      </node>
+      <node id="Charlotte Lola" label="Charlotte Lola">
+        <attvalues>
+          <attvalue for="0" value="3933" />
+        </attvalues>
+      </node>
+      <node id="Gecko Moria" label="Gecko Moria">
+        <attvalues>
+          <attvalue for="0" value="8161" />
+        </attvalues>
+      </node>
+      <node id="Hildon" label="Hildon">
+        <attvalues>
+          <attvalue for="0" value="381" />
+        </attvalues>
+      </node>
+      <node id="Hippo Gentleman" label="Hippo Gentleman">
+        <attvalues>
+          <attvalue for="0" value="712" />
+        </attvalues>
+      </node>
+      <node id="Hogback" label="Hogback">
+        <attvalues>
+          <attvalue for="0" value="4114" />
+        </attvalues>
+      </node>
+      <node id="Inuppe" label="Inuppe">
+        <attvalues>
+          <attvalue for="0" value="1320" />
+        </attvalues>
+      </node>
+      <node id="Jigoro" label="Jigoro">
+        <attvalues>
+          <attvalue for="0" value="960" />
+        </attvalues>
+      </node>
+      <node id="Kaidou" label="Kaidou">
+        <attvalues>
+          <attvalue for="0" value="13361" />
+        </attvalues>
+      </node>
+      <node id="Kumashi" label="Kumashi">
+        <attvalues>
+          <attvalue for="0" value="1129" />
+        </attvalues>
+      </node>
+      <node id="Lola" label="Lola">
+        <attvalues>
+          <attvalue for="0" value="1955" />
+        </attvalues>
+      </node>
+      <node id="Oars" label="Oars">
+        <attvalues>
+          <attvalue for="0" value="4152" />
+        </attvalues>
+      </node>
+      <node id="Penguin" label="Penguin">
+        <attvalues>
+          <attvalue for="0" value="2262" />
+        </attvalues>
+      </node>
+      <node id="Perona" label="Perona">
+        <attvalues>
+          <attvalue for="0" value="4967" />
+        </attvalues>
+      </node>
+      <node id="Risky Brothers" label="Risky Brothers">
+        <attvalues>
+          <attvalue for="0" value="775" />
+        </attvalues>
+      </node>
+      <node id="Tararan" label="Tararan">
+        <attvalues>
+          <attvalue for="0" value="763" />
+        </attvalues>
+      </node>
+      <node id="Vegapunk" label="Vegapunk">
+        <attvalues>
+          <attvalue for="0" value="12435" />
+        </attvalues>
+      </node>
+      <node id="Victoria Cindry" label="Victoria Cindry">
+        <attvalues>
+          <attvalue for="0" value="2100" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Alvida" target="Buggy" id="0" />
+      <edge source="Alvida" target="Cabaji" id="1" />
+      <edge source="Alvida" target="Koby" id="2" />
+      <edge source="Alvida" target="Mohji" id="3" />
+      <edge source="Alvida" target="Richie" id="4" />
+      <edge source="Alvida" target="Smoker" id="5" />
+      <edge source="Arlong" target="Bell-mère" id="6" />
+      <edge source="Arlong" target="Buggy" id="7" />
+      <edge source="Arlong" target="Chew" id="8" />
+      <edge source="Arlong" target="Genzo" id="9" />
+      <edge source="Arlong" target="Hatchan" id="10" />
+      <edge source="Arlong" target="Krieg" id="11" />
+      <edge source="Arlong" target="Kuroobi" id="12" />
+      <edge source="Arlong" target="Nami" id="13" />
+      <edge source="Arlong" target="Nezumi" id="14" />
+      <edge source="Arlong" target="Nojiko" id="15" />
+      <edge source="Arlong" target="Pudding Pudding" id="16" />
+      <edge source="Arlong" target="Roronoa Zoro" id="17" />
+      <edge source="Arlong" target="Yosaku" id="18" />
+      <edge source="Bell-mère" target="Genzo" id="19" />
+      <edge source="Bell-mère" target="Hatchan" id="20" />
+      <edge source="Bell-mère" target="Nami" id="21" />
+      <edge source="Bell-mère" target="Nojiko" id="22" />
+      <edge source="Benn Beckman" target="Higuma" id="23" />
+      <edge source="Benn Beckman" target="Kuro" id="24" />
+      <edge source="Benn Beckman" target="Lucky Roux" id="25" />
+      <edge source="Benn Beckman" target="Shanks" id="26" />
+      <edge source="Boodle" target="Buggy" id="27" />
+      <edge source="Boodle" target="Chouchou" id="28" />
+      <edge source="Buchi" target="Kuro" id="29" />
+      <edge source="Buchi" target="Sham" id="30" />
+      <edge source="Buggy" target="Cabaji" id="31" />
+      <edge source="Buggy" target="Dracule Mihawk" id="32" />
+      <edge source="Buggy" target="Gaimon" id="33" />
+      <edge source="Buggy" target="Gol D. Roger" id="34" />
+      <edge source="Buggy" target="Mohji" id="35" />
+      <edge source="Buggy" target="Monkey D. Luffy" id="36" />
+      <edge source="Buggy" target="Shanks" id="37" />
+      <edge source="Buggy" target="Smoker" id="38" />
+      <edge source="Cabaji" target="Mohji" id="39" />
+      <edge source="Cabaji" target="Richie" id="40" />
+      <edge source="Carne" target="Gin" id="41" />
+      <edge source="Carne" target="Krieg" id="42" />
+      <edge source="Carne" target="Patty" id="43" />
+      <edge source="Carne" target="Pearl" id="44" />
+      <edge source="Chew" target="Hatchan" id="45" />
+      <edge source="Chew" target="Kuroobi" id="46" />
+      <edge source="Chouchou" target="Mohji" id="47" />
+      <edge source="Chouchou" target="Richie" id="48" />
+      <edge source="Dracule Mihawk" target="Gol D. Roger" id="49" />
+      <edge source="Dracule Mihawk" target="Krieg" id="50" />
+      <edge source="Dracule Mihawk" target="Roronoa Zoro" id="51" />
+      <edge source="Dracule Mihawk" target="Shanks" id="52" />
+      <edge source="Dracule Mihawk" target="Zeff" id="53" />
+      <edge source="Fullbody" target="Gin" id="54" />
+      <edge source="Fullbody" target="Jango" id="55" />
+      <edge source="Fullbody" target="Johnny" id="56" />
+      <edge source="Fullbody" target="Patty" id="57" />
+      <edge source="Fullbody" target="Yosaku" id="58" />
+      <edge source="Genzo" target="Kuroobi" id="59" />
+      <edge source="Genzo" target="Nami" id="60" />
+      <edge source="Genzo" target="Nezumi" id="61" />
+      <edge source="Genzo" target="Nojiko" id="62" />
+      <edge source="Gin" target="Krieg" id="63" />
+      <edge source="Gin" target="Patty" id="64" />
+      <edge source="Gin" target="Pearl" id="65" />
+      <edge source="Gin" target="Zeff" id="66" />
+      <edge source="Going Merry" target="Johnny" id="67" />
+      <edge source="Going Merry" target="Kaya" id="68" />
+      <edge source="Going Merry" target="Merry" id="69" />
+      <edge source="Going Merry" target="Mohji" id="70" />
+      <edge source="Going Merry" target="Roronoa Zoro" id="71" />
+      <edge source="Going Merry" target="Yosaku" id="72" />
+      <edge source="Gol D. Roger" target="Monkey D. Luffy" id="73" />
+      <edge source="Gol D. Roger" target="Sabo" id="74" />
+      <edge source="Gol D. Roger" target="Shanks" id="75" />
+      <edge source="Gol D. Roger" target="Smoker" id="76" />
+      <edge source="Hatchan" target="Johnny" id="77" />
+      <edge source="Hatchan" target="Kuroobi" id="78" />
+      <edge source="Hatchan" target="Momoo" id="79" />
+      <edge source="Hatchan" target="Nezumi" id="80" />
+      <edge source="Hatchan" target="Yosaku" id="81" />
+      <edge source="Helmeppo" target="Koby" id="82" />
+      <edge source="Helmeppo" target="Morgan" id="83" />
+      <edge source="Helmeppo" target="Rika" id="84" />
+      <edge source="Helmeppo" target="Shanks" id="85" />
+      <edge source="Helmeppo" target="Tashigi" id="86" />
+      <edge source="Higuma" target="Lord of the Coast" id="87" />
+      <edge source="Higuma" target="Makino" id="88" />
+      <edge source="Higuma" target="Shanks" id="89" />
+      <edge source="Higuma" target="Woop Slap" id="90" />
+      <edge source="Jango" target="Kaya" id="91" />
+      <edge source="Jango" target="Kuro" id="92" />
+      <edge source="Jango" target="Morgan" id="93" />
+      <edge source="Jango" target="Ninjin" id="94" />
+      <edge source="Jango" target="Piiman" id="95" />
+      <edge source="Jango" target="Tamanegi" id="96" />
+      <edge source="Johnny" target="Nojiko" id="97" />
+      <edge source="Johnny" target="Yosaku" id="98" />
+      <edge source="Kaya" target="Kuro" id="99" />
+      <edge source="Kaya" target="Merry" id="100" />
+      <edge source="Kaya" target="Ninjin" id="101" />
+      <edge source="Kaya" target="Piiman" id="102" />
+      <edge source="Kaya" target="Tamanegi" id="103" />
+      <edge source="Kaya" target="Usopp" id="104" />
+      <edge source="Killer" target="Shanks" id="105" />
+      <edge source="Koby" target="Morgan" id="106" />
+      <edge source="Koby" target="Rika" id="107" />
+      <edge source="Koby" target="Shanks" id="108" />
+      <edge source="Koby" target="Tashigi" id="109" />
+      <edge source="Krieg" target="Patty" id="110" />
+      <edge source="Krieg" target="Pearl" id="111" />
+      <edge source="Krieg" target="Zeff" id="112" />
+      <edge source="Kuro" target="Merry" id="113" />
+      <edge source="Kuro" target="Morgan" id="114" />
+      <edge source="Kuro" target="Ninjin" id="115" />
+      <edge source="Kuro" target="Piiman" id="116" />
+      <edge source="Kuro" target="Sham" id="117" />
+      <edge source="Kuro" target="Tamanegi" id="118" />
+      <edge source="Kuro" target="Usopp" id="119" />
+      <edge source="Kuroobi" target="Sanji" id="120" />
+      <edge source="Kuroobi" target="Zeff" id="121" />
+      <edge source="Lord of the Coast" target="Shanks" id="122" />
+      <edge source="Lucky Roux" target="Shanks" id="123" />
+      <edge source="Lucky Roux" target="Yasopp" id="124" />
+      <edge source="Makino" target="Shanks" id="125" />
+      <edge source="Makino" target="Woop Slap" id="126" />
+      <edge source="Mohji" target="Richie" id="127" />
+      <edge source="Momoo" target="Yosaku" id="128" />
+      <edge source="Monkey D. Dragon" target="Monkey D. Luffy" id="129" />
+      <edge source="Monkey D. Dragon" target="Sabo" id="130" />
+      <edge source="Monkey D. Dragon" target="Smoker" id="131" />
+      <edge source="Monkey D. Luffy" target="Nami" id="132" />
+      <edge source="Monkey D. Luffy" target="Sabo" id="133" />
+      <edge source="Monkey D. Luffy" target="Sanji" id="134" />
+      <edge source="Monkey D. Luffy" target="Shanks" id="135" />
+      <edge source="Morgan" target="Rika" id="136" />
+      <edge source="Morgan" target="Ripper" id="137" />
+      <edge source="Nako" target="Nami" id="138" />
+      <edge source="Nako" target="Nojiko" id="139" />
+      <edge source="Nami" target="Nojiko" id="140" />
+      <edge source="Nami" target="Sanji" id="141" />
+      <edge source="Nezumi" target="Nojiko" id="142" />
+      <edge source="Ninjin" target="Piiman" id="143" />
+      <edge source="Ninjin" target="Tamanegi" id="144" />
+      <edge source="Nojiko" target="Yosaku" id="145" />
+      <edge source="Patty" target="Pearl" id="146" />
+      <edge source="Patty" target="Zeff" id="147" />
+      <edge source="Pearl" target="Zeff" id="148" />
+      <edge source="Piiman" target="Tamanegi" id="149" />
+      <edge source="Rika" target="Ripper" id="150" />
+      <edge source="Roronoa Zoro" target="Sanji" id="151" />
+      <edge source="Sabo" target="Smoker" id="152" />
+      <edge source="Sanji" target="Zeff" id="153" />
+      <edge source="Shanks" target="Yasopp" id="154" />
+      <edge source="Smoker" target="Tashigi" id="155" />
+      <edge source="Usopp" target="Yasopp" id="156" />
+      <edge source="Yasopp" target="Zeff" id="157" />
+      <edge source="Babe" target="Bentham" id="158" />
+      <edge source="Babe" target="Crocodile" id="159" />
+      <edge source="Babe" target="Drophy" id="160" />
+      <edge source="Babe" target="Galdino" id="161" />
+      <edge source="Babe" target="Nefertari Cobra" id="162" />
+      <edge source="Bentham" target="Crocodile" id="163" />
+      <edge source="Bentham" target="Daz Bonez" id="164" />
+      <edge source="Bentham" target="Drophy" id="165" />
+      <edge source="Bentham" target="Galdino" id="166" />
+      <edge source="Bentham" target="Hina" id="167" />
+      <edge source="Bentham" target="Karoo" id="168" />
+      <edge source="Bentham" target="Koza" id="169" />
+      <edge source="Bentham" target="Marianne" id="170" />
+      <edge source="Bentham" target="Matsuge" id="171" />
+      <edge source="Bentham" target="Mikita" id="172" />
+      <edge source="Bentham" target="Nefertari Cobra" id="173" />
+      <edge source="Bentham" target="Nefertari Vivi" id="174" />
+      <edge source="Bentham" target="Zala" id="175" />
+      <edge source="Brogy" target="Dorry" id="176" />
+      <edge source="Brogy" target="Galdino" id="177" />
+      <edge source="Brogy" target="Gem" id="178" />
+      <edge source="Brogy" target="Mikita" id="179" />
+      <edge source="Chaka" target="Crocodile" id="180" />
+      <edge source="Chaka" target="Igaram" id="181" />
+      <edge source="Chaka" target="Koza" id="182" />
+      <edge source="Chaka" target="Nefertari Cobra" id="183" />
+      <edge source="Chaka" target="Nefertari Vivi" id="184" />
+      <edge source="Chaka" target="Pell" id="185" />
+      <edge source="Chess" target="Chessmarimo" id="186" />
+      <edge source="Chess" target="Dalton" id="187" />
+      <edge source="Chess" target="Kuromarimo" id="188" />
+      <edge source="Chess" target="Wapol" id="189" />
+      <edge source="Chessmarimo" target="Kuromarimo" id="190" />
+      <edge source="Chessmarimo" target="Wapol" id="191" />
+      <edge source="Crocodile" target="Daz Bonez" id="192" />
+      <edge source="Crocodile" target="Drophy" id="193" />
+      <edge source="Crocodile" target="Galdino" id="194" />
+      <edge source="Crocodile" target="Igaram" id="195" />
+      <edge source="Crocodile" target="Karoo" id="196" />
+      <edge source="Crocodile" target="Marianne" id="197" />
+      <edge source="Crocodile" target="Nefertari Cobra" id="198" />
+      <edge source="Crocodile" target="Nefertari Vivi" id="199" />
+      <edge source="Crocodile" target="Nico Robin" id="200" />
+      <edge source="Crocodile" target="Portgas D. Ace" id="201" />
+      <edge source="Crocodile" target="Zala" id="202" />
+      <edge source="Crocus" target="Laboon" id="203" />
+      <edge source="Crocus" target="Mr. 9" id="204" />
+      <edge source="Dalton" target="Hiriluk" id="205" />
+      <edge source="Dalton" target="Kureha" id="206" />
+      <edge source="Dalton" target="Kuromarimo" id="207" />
+      <edge source="Dalton" target="Nefertari Vivi" id="208" />
+      <edge source="Dalton" target="Wapol" id="209" />
+      <edge source="Daz Bonez" target="Galdino" id="210" />
+      <edge source="Daz Bonez" target="Kappa" id="211" />
+      <edge source="Daz Bonez" target="Marianne" id="212" />
+      <edge source="Dorry" target="Galdino" id="213" />
+      <edge source="Dorry" target="Gem" id="214" />
+      <edge source="Dorry" target="Karoo" id="215" />
+      <edge source="Dorry" target="Marianne" id="216" />
+      <edge source="Dorry" target="Mikita" id="217" />
+      <edge source="Drophy" target="Marianne" id="218" />
+      <edge source="Drophy" target="Nefertari Cobra" id="219" />
+      <edge source="Drophy" target="Zala" id="220" />
+      <edge source="Galdino" target="Gem" id="221" />
+      <edge source="Galdino" target="Hina" id="222" />
+      <edge source="Galdino" target="Karoo" id="223" />
+      <edge source="Galdino" target="Marianne" id="224" />
+      <edge source="Galdino" target="Mikita" id="225" />
+      <edge source="Galdino" target="Nefertari Vivi" id="226" />
+      <edge source="Gem" target="Igaram" id="227" />
+      <edge source="Gem" target="Karoo" id="228" />
+      <edge source="Gem" target="Marianne" id="229" />
+      <edge source="Gem" target="Mikita" id="230" />
+      <edge source="Gem" target="Miss Monday" id="231" />
+      <edge source="Gem" target="Mr. 9" id="232" />
+      <edge source="Gem" target="Nefertari Vivi" id="233" />
+      <edge source="Heat" target="Wire" id="234" />
+      <edge source="Hina" target="Marianne" id="235" />
+      <edge source="Hina" target="Mikita" id="236" />
+      <edge source="Hiriluk" target="Kureha" id="237" />
+      <edge source="Hiriluk" target="Tony Tony Chopper" id="238" />
+      <edge source="Hiriluk" target="Wapol" id="239" />
+      <edge source="Igaram" target="Kappa" id="240" />
+      <edge source="Igaram" target="Karoo" id="241" />
+      <edge source="Igaram" target="Koza" id="242" />
+      <edge source="Igaram" target="Mikita" id="243" />
+      <edge source="Igaram" target="Miss Monday" id="244" />
+      <edge source="Igaram" target="Mr. 9" id="245" />
+      <edge source="Igaram" target="Nefertari Cobra" id="246" />
+      <edge source="Igaram" target="Nefertari Vivi" id="247" />
+      <edge source="Igaram" target="Wapol" id="248" />
+      <edge source="Kappa" target="Koza" id="249" />
+      <edge source="Kappa" target="Nefertari Cobra" id="250" />
+      <edge source="Kappa" target="Zala" id="251" />
+      <edge source="Karoo" target="Marianne" id="252" />
+      <edge source="Karoo" target="Matsuge" id="253" />
+      <edge source="Karoo" target="Mikita" id="254" />
+      <edge source="Karoo" target="Nefertari Vivi" id="255" />
+      <edge source="Karoo" target="Pell" id="256" />
+      <edge source="Karoo" target="Toto" id="257" />
+      <edge source="Koza" target="Nefertari Cobra" id="258" />
+      <edge source="Koza" target="Nefertari Vivi" id="259" />
+      <edge source="Koza" target="Toto" id="260" />
+      <edge source="Koza" target="Zala" id="261" />
+      <edge source="Kureha" target="Tony Tony Chopper" id="262" />
+      <edge source="Kureha" target="Wapol" id="263" />
+      <edge source="Kuromarimo" target="Wapol" id="264" />
+      <edge source="Laboon" target="Mr. 9" id="265" />
+      <edge source="Laboon" target="Nefertari Vivi" id="266" />
+      <edge source="Marianne" target="Mikita" id="267" />
+      <edge source="Marianne" target="Nefertari Vivi" id="268" />
+      <edge source="Matsuge" target="Nefertari Vivi" id="269" />
+      <edge source="Mikita" target="Miss Monday" id="270" />
+      <edge source="Mikita" target="Mr. 9" id="271" />
+      <edge source="Mikita" target="Nefertari Vivi" id="272" />
+      <edge source="Miss Monday" target="Mr. 9" id="273" />
+      <edge source="Miss Monday" target="Nefertari Vivi" id="274" />
+      <edge source="Mr. 9" target="Nefertari Vivi" id="275" />
+      <edge source="Nefertari Cobra" target="Nefertari Vivi" id="276" />
+      <edge source="Nefertari Cobra" target="Pell" id="277" />
+      <edge source="Nefertari Cobra" target="Toto" id="278" />
+      <edge source="Nefertari Cobra" target="Wapol" id="279" />
+      <edge source="Nefertari Vivi" target="Pell" id="280" />
+      <edge source="Nefertari Vivi" target="Tony Tony Chopper" id="281" />
+      <edge source="Nefertari Vivi" target="Wapol" id="282" />
+      <edge source="Nefertari Vivi" target="Zala" id="283" />
+      <edge source="Aisa" target="Conis" id="284" />
+      <edge source="Aisa" target="Enel" id="285" />
+      <edge source="Aisa" target="Kamakiri" id="286" />
+      <edge source="Aisa" target="Nola" id="287" />
+      <edge source="Aisa" target="Pierre" id="288" />
+      <edge source="Aisa" target="Raki" id="289" />
+      <edge source="Aisa" target="Wyper" id="290" />
+      <edge source="Bartholomew Kuma" target="Jaygarcia Saturn" id="291" />
+      <edge source="Bartholomew Kuma" target="Marshall D. Teach" id="292" />
+      <edge source="Bartholomew Kuma" target="Sengoku" id="293" />
+      <edge source="Bellamy" target="Donquixote Doflamingo" id="294" />
+      <edge source="Bellamy" target="Masira" id="295" />
+      <edge source="Bellamy" target="Mont Blanc Cricket" id="296" />
+      <edge source="Bellamy" target="Roshio" id="297" />
+      <edge source="Bellamy" target="Sarquiss" id="298" />
+      <edge source="Bellamy" target="Shoujou" id="299" />
+      <edge source="Braham" target="Kamakiri" id="300" />
+      <edge source="Conis" target="Enel" id="301" />
+      <edge source="Conis" target="Gan Fall" id="302" />
+      <edge source="Conis" target="McKinley" id="303" />
+      <edge source="Conis" target="Nola" id="304" />
+      <edge source="Conis" target="Pagaya" id="305" />
+      <edge source="Conis" target="Pierre" id="306" />
+      <edge source="Conis" target="Raki" id="307" />
+      <edge source="Conis" target="Wyper" id="308" />
+      <edge source="Doc Q" target="Jesus Burgess" id="309" />
+      <edge source="Doc Q" target="Laffitte" id="310" />
+      <edge source="Doc Q" target="Marshall D. Teach" id="311" />
+      <edge source="Doc Q" target="Van Augur" id="312" />
+      <edge source="Edward Newgate" target="Marco" id="313" />
+      <edge source="Edward Newgate" target="Marshall D. Teach" id="314" />
+      <edge source="Edward Newgate" target="Rockstar" id="315" />
+      <edge source="Edward Newgate" target="Sengoku" id="316" />
+      <edge source="Enel" target="Gan Fall" id="317" />
+      <edge source="Enel" target="Gedatsu" id="318" />
+      <edge source="Enel" target="Kamakiri" id="319" />
+      <edge source="Enel" target="McKinley" id="320" />
+      <edge source="Enel" target="Nola" id="321" />
+      <edge source="Enel" target="Ohm" id="322" />
+      <edge source="Enel" target="Pagaya" id="323" />
+      <edge source="Enel" target="Pierre" id="324" />
+      <edge source="Enel" target="Raki" id="325" />
+      <edge source="Enel" target="Satori" id="326" />
+      <edge source="Enel" target="Shura" id="327" />
+      <edge source="Enel" target="Wyper" id="328" />
+      <edge source="Enel" target="Yama" id="329" />
+      <edge source="Ethanbaron V. Nusjuro" target="Topman Warcury" id="330" />
+      <edge source="Gan Fall" target="Nola" id="331" />
+      <edge source="Gan Fall" target="Ohm" id="332" />
+      <edge source="Gan Fall" target="Pierre" id="333" />
+      <edge source="Gan Fall" target="Shandia Chief" id="334" />
+      <edge source="Gan Fall" target="Shura" id="335" />
+      <edge source="Gan Fall" target="Wyper" id="336" />
+      <edge source="Gedatsu" target="Goro" id="337" />
+      <edge source="Gedatsu" target="Ohm" id="338" />
+      <edge source="Gedatsu" target="Satori" id="339" />
+      <edge source="Gedatsu" target="Shura" id="340" />
+      <edge source="Gedatsu" target="Wyper" id="341" />
+      <edge source="Holy" target="Nola" id="342" />
+      <edge source="Holy" target="Ohm" id="343" />
+      <edge source="Holy" target="Wyper" id="344" />
+      <edge source="Holy" target="Zabo" id="345" />
+      <edge source="Jack" target="Sengoku" id="346" />
+      <edge source="Jack" target="Tsuru" id="347" />
+      <edge source="Jaygarcia Saturn" target="Marcus Mars" id="348" />
+      <edge source="Jaygarcia Saturn" target="Shepherd Ju Peter" id="349" />
+      <edge source="Jaygarcia Saturn" target="Topman Warcury" id="350" />
+      <edge source="Jaygarcia Saturn" target="Van Augur" id="351" />
+      <edge source="Jesus Burgess" target="Laffitte" id="352" />
+      <edge source="Jesus Burgess" target="Marshall D. Teach" id="353" />
+      <edge source="Jesus Burgess" target="Van Augur" id="354" />
+      <edge source="Jozu" target="Marco" id="355" />
+      <edge source="Kalgara" target="Mont Blanc Noland" id="356" />
+      <edge source="Kalgara" target="Nola" id="357" />
+      <edge source="Kalgara" target="Seto" id="358" />
+      <edge source="Kalgara" target="Wyper" id="359" />
+      <edge source="Kamakiri" target="Raki" id="360" />
+      <edge source="Kamakiri" target="Wyper" id="361" />
+      <edge source="Laffitte" target="Marshall D. Teach" id="362" />
+      <edge source="Laffitte" target="Sengoku" id="363" />
+      <edge source="Laffitte" target="Tsuru" id="364" />
+      <edge source="Laffitte" target="Van Augur" id="365" />
+      <edge source="Marco" target="Marshall D. Teach" id="366" />
+      <edge source="Marcus Mars" target="Shepherd Ju Peter" id="367" />
+      <edge source="Marcus Mars" target="Topman Warcury" id="368" />
+      <edge source="Marshall D. Teach" target="Sarquiss" id="369" />
+      <edge source="Marshall D. Teach" target="Sengoku" id="370" />
+      <edge source="Marshall D. Teach" target="Van Augur" id="371" />
+      <edge source="Masira" target="Mont Blanc Cricket" id="372" />
+      <edge source="Masira" target="Mont Blanc Noland" id="373" />
+      <edge source="Masira" target="Sarquiss" id="374" />
+      <edge source="Masira" target="Shoujou" id="375" />
+      <edge source="McKinley" target="Pagaya" id="376" />
+      <edge source="Mont Blanc Cricket" target="Mont Blanc Noland" id="377" />
+      <edge source="Mont Blanc Cricket" target="Sarquiss" id="378" />
+      <edge source="Mont Blanc Cricket" target="Shoujou" id="379" />
+      <edge source="Mont Blanc Noland" target="Nola" id="380" />
+      <edge source="Mont Blanc Noland" target="Seto" id="381" />
+      <edge source="Mont Blanc Noland" target="Shoujou" id="382" />
+      <edge source="Mont Blanc Noland" target="Wyper" id="383" />
+      <edge source="Nola" target="Ohm" id="384" />
+      <edge source="Nola" target="Pierre" id="385" />
+      <edge source="Nola" target="Raki" id="386" />
+      <edge source="Nola" target="Seto" id="387" />
+      <edge source="Nola" target="Wyper" id="388" />
+      <edge source="Ohm" target="Satori" id="389" />
+      <edge source="Ohm" target="Shura" id="390" />
+      <edge source="Ohm" target="Wyper" id="391" />
+      <edge source="Ohm" target="Yama" id="392" />
+      <edge source="Raki" target="Wyper" id="393" />
+      <edge source="Roshio" target="Sarquiss" id="394" />
+      <edge source="Sarquiss" target="Shoujou" id="395" />
+      <edge source="Satori" target="Shura" id="396" />
+      <edge source="Satori" target="Wyper" id="397" />
+      <edge source="Satori" target="Zabo" id="398" />
+      <edge source="Sengoku" target="Tsuru" id="399" />
+      <edge source="Shepherd Ju Peter" target="Topman Warcury" id="400" />
+      <edge source="Shura" target="Wyper" id="401" />
+      <edge source="Shura" target="Yama" id="402" />
+      <edge source="Shura" target="Zabo" id="403" />
+      <edge source="Wyper" target="Zabo" id="404" />
+      <edge source="Big Pan" target="Hamburg" id="405" />
+      <edge source="Blueno" target="Fukurou" id="406" />
+      <edge source="Blueno" target="Jabra" id="407" />
+      <edge source="Blueno" target="Kalifa" id="408" />
+      <edge source="Blueno" target="Kumadori" id="409" />
+      <edge source="Blueno" target="Paulie" id="410" />
+      <edge source="Blueno" target="Spandam" id="411" />
+      <edge source="Blueno" target="Tilestone" id="412" />
+      <edge source="Bogard" target="Monkey D. Garp" id="413" />
+      <edge source="Boo" target="Sai" id="414" />
+      <edge source="Chimney" target="Iceburg" id="415" />
+      <edge source="Chimney" target="Kokoro" id="416" />
+      <edge source="Doberman" target="Momonga" id="417" />
+      <edge source="Doll" target="Kashii" id="418" />
+      <edge source="Doll" target="Monkey D. Garp" id="419" />
+      <edge source="Foxy" target="Hamburg" id="420" />
+      <edge source="Foxy" target="Porche" id="421" />
+      <edge source="Foxy" target="Shelly" id="422" />
+      <edge source="Foxy" target="Tonjit" id="423" />
+      <edge source="Franky" target="Iceburg" id="424" />
+      <edge source="Fukurou" target="Jabra" id="425" />
+      <edge source="Fukurou" target="Kumadori" id="426" />
+      <edge source="Fukurou" target="Rob Lucci" id="427" />
+      <edge source="Fukurou" target="Spandam" id="428" />
+      <edge source="Gomorrah" target="Kashii" id="429" />
+      <edge source="Gomorrah" target="Oimo" id="430" />
+      <edge source="Gomorrah" target="Paulie" id="431" />
+      <edge source="Gomorrah" target="Sodom" id="432" />
+      <edge source="Hamburg" target="Porche" id="433" />
+      <edge source="Hattori" target="Kumadori" id="434" />
+      <edge source="Hattori" target="Rob Lucci" id="435" />
+      <edge source="Iceburg" target="Kaku" id="436" />
+      <edge source="Iceburg" target="Kalifa" id="437" />
+      <edge source="Iceburg" target="Kokoro" id="438" />
+      <edge source="Iceburg" target="Peepley Lulu" id="439" />
+      <edge source="Iceburg" target="Spandam" id="440" />
+      <edge source="Iceburg" target="Tilestone" id="441" />
+      <edge source="Iceburg" target="Tom" id="442" />
+      <edge source="Jabra" target="Kaku" id="443" />
+      <edge source="Jabra" target="Kalifa" id="444" />
+      <edge source="Jabra" target="Kumadori" id="445" />
+      <edge source="Jabra" target="Rob Lucci" id="446" />
+      <edge source="Jabra" target="Spandam" id="447" />
+      <edge source="Kaku" target="Paulie" id="448" />
+      <edge source="Kaku" target="Peepley Lulu" id="449" />
+      <edge source="Kaku" target="Rob Lucci" id="450" />
+      <edge source="Kaku" target="Spandam" id="451" />
+      <edge source="Kaku" target="Tilestone" id="452" />
+      <edge source="Kalifa" target="Paulie" id="453" />
+      <edge source="Kalifa" target="Peepley Lulu" id="454" />
+      <edge source="Kalifa" target="Spandam" id="455" />
+      <edge source="Kashii" target="Oimo" id="456" />
+      <edge source="Kashii" target="Paulie" id="457" />
+      <edge source="Kashii" target="Peepley Lulu" id="458" />
+      <edge source="Kashii" target="Sodom" id="459" />
+      <edge source="Kashii" target="Spandam" id="460" />
+      <edge source="Kashii" target="Tilestone" id="461" />
+      <edge source="Kashii" target="Yokozuna" id="462" />
+      <edge source="Kashii" target="Zambai" id="463" />
+      <edge source="Kokoro" target="Tom" id="464" />
+      <edge source="Kokoro" target="Yokozuna" id="465" />
+      <edge source="Kumadori" target="Rob Lucci" id="466" />
+      <edge source="Kumadori" target="Spandam" id="467" />
+      <edge source="Kuzan" target="Monkey D. Garp" id="468" />
+      <edge source="Kuzan" target="Spandam" id="469" />
+      <edge source="Kuzan" target="Tonjit" id="470" />
+      <edge source="Mikazuki" target="Paulie" id="471" />
+      <edge source="Momonga" target="Yamakaji" id="472" />
+      <edge source="Oimo" target="Paulie" id="473" />
+      <edge source="Oimo" target="Sodom" id="474" />
+      <edge source="Oimo" target="Spandam" id="475" />
+      <edge source="Oimo" target="Yokozuna" id="476" />
+      <edge source="Onigumo" target="Rob Lucci" id="477" />
+      <edge source="Paulie" target="Peepley Lulu" id="478" />
+      <edge source="Paulie" target="Rob Lucci" id="479" />
+      <edge source="Paulie" target="Sodom" id="480" />
+      <edge source="Paulie" target="Tilestone" id="481" />
+      <edge source="Paulie" target="Zambai" id="482" />
+      <edge source="Peepley Lulu" target="Tilestone" id="483" />
+      <edge source="Rob Lucci" target="Sai" id="484" />
+      <edge source="Rob Lucci" target="Spandam" id="485" />
+      <edge source="Rob Lucci" target="Spandine" id="486" />
+      <edge source="Rob Lucci" target="Zambai" id="487" />
+      <edge source="Shelly" target="Tonjit" id="488" />
+      <edge source="Spandam" target="Spandine" id="489" />
+      <edge source="Spandam" target="Tom" id="490" />
+      <edge source="Absalom" target="Gecko Moria" id="491" />
+      <edge source="Absalom" target="Hogback" id="492" />
+      <edge source="Absalom" target="Inuppe" id="493" />
+      <edge source="Absalom" target="Kumashi" id="494" />
+      <edge source="Absalom" target="Oars" id="495" />
+      <edge source="Absalom" target="Perona" id="496" />
+      <edge source="Absalom" target="Victoria Cindry" id="497" />
+      <edge source="Boa Hancock" target="Perona" id="498" />
+      <edge source="Boa Hancock" target="Risky Brothers" id="499" />
+      <edge source="Gecko Moria" target="Hildon" id="500" />
+      <edge source="Gecko Moria" target="Hogback" id="501" />
+      <edge source="Gecko Moria" target="Inuppe" id="502" />
+      <edge source="Gecko Moria" target="Jigoro" id="503" />
+      <edge source="Gecko Moria" target="Kaidou" id="504" />
+      <edge source="Gecko Moria" target="Kumashi" id="505" />
+      <edge source="Gecko Moria" target="Lola" id="506" />
+      <edge source="Gecko Moria" target="Oars" id="507" />
+      <edge source="Gecko Moria" target="Perona" id="508" />
+      <edge source="Gecko Moria" target="Victoria Cindry" id="509" />
+      <edge source="Hildon" target="Hogback" id="510" />
+      <edge source="Hippo Gentleman" target="Inuppe" id="511" />
+      <edge source="Hippo Gentleman" target="Perona" id="512" />
+      <edge source="Hogback" target="Inuppe" id="513" />
+      <edge source="Hogback" target="Jigoro" id="514" />
+      <edge source="Hogback" target="Kumashi" id="515" />
+      <edge source="Hogback" target="Oars" id="516" />
+      <edge source="Hogback" target="Perona" id="517" />
+      <edge source="Hogback" target="Tararan" id="518" />
+      <edge source="Hogback" target="Victoria Cindry" id="519" />
+      <edge source="Inuppe" target="Jigoro" id="520" />
+      <edge source="Inuppe" target="Victoria Cindry" id="521" />
+      <edge source="Jigoro" target="Victoria Cindry" id="522" />
+      <edge source="Kumashi" target="Perona" id="523" />
+      <edge source="Oars" target="Perona" id="524" />
+      <edge source="Oars" target="Victoria Cindry" id="525" />
+      <edge source="Perona" target="Tararan" id="526" />
+    </edges>
+  </graph>
+</gexf>
